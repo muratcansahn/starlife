@@ -1,5 +1,4 @@
 import { Carousel } from "react-bootstrap";
-import { Img1, Img2 } from "./lang";
 import { useTranslations } from "next-intl";
 
 const Banner = ({ lang }) => {
@@ -15,16 +14,11 @@ const Banner = ({ lang }) => {
               src="/images/banner.jpg"
               alt="First slide"
             />{" "}
-            <img
-              className="banner-ribon  "
-              src="/images/slider-ribon.png"
-              alt="First slide"
-            />
           </div>
 
           <p className="banner-title">{t("FirstText")}</p>
         </Carousel.Item>
-        <Carousel.Item>
+        {/* <Carousel.Item>
           <div className="banner-images">
             <img
               className=" w-100 banner-image banner-image-2"
@@ -39,7 +33,7 @@ const Banner = ({ lang }) => {
           </div>
 
           <p className="banner-title pt-4">{t("SecondText")}</p>
-        </Carousel.Item>
+        </Carousel.Item> */}
       </Carousel>
     </div>
   );

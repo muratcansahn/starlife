@@ -42,6 +42,7 @@ import "../components/PageLogo/PageLogo.scss";
 import "../page-templates/AboutUsPage/AboutUsPage.scss";
 import "../page-templates/ServicePage/ServicePage.scss";
 import "../components/Container/Container.scss";
+import "../components/Features/Features.scss";
 
 function MyApp({ Component, pageProps }) {
   const [loading, setLoading] = useState(false);

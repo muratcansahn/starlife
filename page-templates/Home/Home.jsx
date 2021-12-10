@@ -12,6 +12,7 @@ import {
   Container,
   UpperFooter,
   WhatsappButton,
+  Features,
 } from ".";
 
 const Home = () => {
@@ -19,11 +20,10 @@ const Home = () => {
     <main className="">
       <Container>
         <WhatsappButton />
-        <Contact />
         <Header />
       </Container>
       <Banner />
-      <YachtRentServices />
+      <Features />
       <YachtFleet />
       <Policy />
       <BannerDown />

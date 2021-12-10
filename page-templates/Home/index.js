@@ -1,6 +1,7 @@
 import Home from "./Home";
 import Contact from "../../components/Contact";
 import Header from "../../components/Header";
+import Features from "../../components/Features";
 import Banner from "../../components/Banner";
 import BannerDown from "../../components/BannerDown";
 import YachtRentServices from "../../components/YachtRentServices";
@@ -28,4 +29,5 @@ export {
   Container,
   WhatsappButton,
   UpperFooter,
+  Features,
 };
