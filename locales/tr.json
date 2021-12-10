@@ -1,0 +1,180 @@
+{
+  "Header": {
+    "homepage": "ANASAYFA",
+    "services": "HİZMETLERİMİZ",
+    "aboutUs": "HAKKIMIZDA",
+    "contact": "İLETİŞİM",
+    "call": "Çağrı",
+    "callUs": "Bizi Arayın",
+    "whatsAppBtn": "Canlı Destek",
+    "BosphorusTourTitle": "İstanbul Boğaz Turu",
+    "IslandTourTitle": "Adalar Turu",
+    "SwimmingTourTitle": "Yüzme Turları",
+    "BachelorettePartyTitle": "Bekarlığa Veda Partisi ",
+    "MarriageProposalTitle": "Evlilik Teklifi ",
+    "BusinessLunchTitle": "İş Yemeği ve Özel Toplantılar",
+    "AnniversaryTitle": "Yıl Dönümü Kutlamaları"
+  },
+  "Home": {
+    "title": "Sealife Yat Kiralama",
+    "description": ""
+  },
+  "Contact": {
+    "title": "İletişim | Sealife Yat Kiralama",
+    "description": "SeaLife Yat Kiralama İletişim kanallarımız...",
+    "pageName": "İletişim",
+    "location": "Lokasyon"
+  },
+  "AboutUs": {
+    "title": "Hakkımızda | Sealife Yat Kiralama",
+    "description": "Siz değerli konuklarımıza seyir boyunca turlarımızda ev konforunu yaşatmak için geniş yat filomuz ile hizmet vermekten mutluluk duyarız. "
+  },
+  "Banner": {
+    "FirstText": "Eğlence Anlayışını Değiştirmeye Ne Dersin ?",
+    "SecondText": "Web Site Açılışına Özel Fiyatlar"
+  },
+  "YachtRent": {
+    "YachtRentTitle": "Yat Kiralama Hizmeti",
+    "YachtRentText": "Sizler de Yat kiralama hizmetimizden yararlanmak istiyorsanız, yapmanız gereken sadece basit 3 adım!",
+    "Col1": "Lokasyon seçerek yatları listele",
+    "Col2": "Yatları kıyasla ve uygun olanı seç",
+    "Col3": "Ödeme yap ve kirala.Hepsi bu!"
+  },
+  "YachtFleet": {
+    "YachtFleetTitle": "Yat Filomuz",
+    "YachtFleetText": "Sizlerin en iyi şekilde ağırlanacağı yat filomuzu buradan inceleyebilir, daha güzel vakit geçirmek için yat kiralayabilirsiniz."
+  },
+  "BoatIcons": {
+    "Icon1": "Sıcak İçecek İkramı",
+    "Icon2": "Sıcak-Soğuk Klima Seçeneği",
+    "Icon3": "Özel Etkinlikler",
+    "Icon4": "Premium Hizmet Kalitesi",
+    "Icon5": "Profesyonel Hizmet Kalitesi",
+    "Review": "Yatı İncele"
+  },
+  "Policy": {
+    "PolicyTitle": "Tüm Hizmetlerimizde Geçerli",
+    "PolicyText": "Tüm yat kiralama ve denizcilik hizmetlerimizde geçerli ilkelerimiz",
+    "PrincipleIconText1": "En iyi hizmet",
+    "PrincipleIconText2": "Güvenilir Hizmet",
+    "PrincipleIconText3": "7/24 Destek",
+    "PrincipleIconText4": "Uygun Fiyat",
+    "PrincipleIconText5": "Kutlamalar"
+  },
+  "BannerDown": {
+    "Experience": "Yıllık Tecrübe",
+    "Rezervation": "Rezervasyon",
+    "YachtNumber": "Adet Yat",
+    "HappyCustomer": "Mutlu Müşteri"
+  },
+  "WhySealife": {
+    "WhySealifeTitle": "Neden Sealife ?",
+    "WhySealifeText": "Aklınıza takılan bir soru mu var? Gelin bizi daha yakından tanıyın.",
+    "Experience5Year": "5 Yıldan Fazla Denizcilik Tecrübesi",
+    "Experience5YearText": "Kurumsal hizmet sektöründe bulunduğumuz 30 yıldan aşkın denizcilik tecrübesi!",
+    "SpecialDayService": "Özel Gün ve Etkinliklerde Hizmetinizde",
+    "SpecialDayServiceText": "Eğlence veya profesyonel iş yemeklerinizde siz değerli misafirlerimizin hizmetinde.",
+    "FirstClassFleet": "Birinci Sınıf Filosu ve Çalışanlar",
+    "FirstClassFleetText": "Birinci sınıf yat filosu ve sizlerin konforu için aile ortamı sunan çalışanlar.",
+    "MarriageProposal": "Evlilik teklifi ve Doğum günü Sürprizleri",
+    "MarriageProposalText": "Sürpriz evlilik teklifi ve doğum günü sürprizleri."
+  },
+  "SealifeOnSocialMedia": {
+    "SocialMediaTitle": "Sosyal Medyada SeaLife",
+    "SocialMediaText": "Sizler de sosyal medya üzerinden deneyimlerinizi paylaşın süpriz hediyeler ve yat turları kazanma fırsatı yakalayın.",
+    "HappyandSatisfiedTitle": "Mutlu ve Memnun Ayrılmanız için Herşey!",
+    "HappyandSatisfiedText": "Her yat kiralama ve etkinlik hizmetinde sizlerin mutluluğu için tüm hazırlıklar ve süreçler kusursuz hazırlanır.",
+    "MarriageProposalTitle": "Evlilik Teklifi ",
+    "MarriageProposalText": "Dillere destan bir aşk yaşadınız… Öyle ki, aşkınızla tek bir saniye bile ayrı kalamadığınızı gördünüz… Artık o büyük aşkınızı, evlilikle taçlandırmaya karar verdiniz… Yoksa bu aşamadan sonra ne yapmanız gerektiğine karar veremediniz mi?",
+    "BreakFastTitle": "Kahvaltılar ve Yemekler",
+    "BreakFastText": "Şehrin sıradan ve boğucu atmosferinden sıkılanlar ve de farklı bir atmosferde eğlence veya iş yemeğine anlam kazandırmak isteyen siz değerli misafirlerimize özel menüler ile birlikte eşsiz boğaz ve deniz manzarası ile hizmet etmekten büyük bir memnuniyet duyacağımızı unutmayınız.",
+    "SpecialDaysTitle": "Özel Günler",
+    "SpecialDaysText": "Özel kıldığınız kişiyi veya günü daha özel kılmaya ne dersiniz? Yat kiralama hizmetleri arasında en çok tercih edilen hizmet olan özel gün yat kiralama hizmetimiz ile birlikte siz değerli misafirlerimizin özel günlerinde isteklerini en iyi şekilde yerine getirerek eşsiz bir deneyim ve keyif imkanı sunuyoruz. ",
+    "BreakfastTitle2": "Kahvaltılar"
+  },
+  "UpperFooter": {
+    "UpperFooterText": "Özel gün ve etkinliklerini lüks bir yatta gerçekleştirmeye ne dersin?"
+  },
+  "Footer": {
+    "LogoText": "Daima en iyi hizmet sloganı ile yola çıkan SeaLife yatçılık her zaman müşteri memnuniyeti ve müşteri deneyimini ön planda tutmuştur. Yat kiralama faaliyetlerinin tamamı vergi mükellefi olan firmamız tarafından yürütülmektedir.  ",
+    "ContactInfo": "İletişim Bilgilerimiz",
+    "Corporal": "Kurumsal",
+    "AboutUs": "Hakkımızda",
+    "ContactFooter": "İletişim",
+    "OurServices": "Hizmetlerimiz",
+    "FollowUs": "Bizi Takip Edin"
+  },
+  "BosphorusTour": {
+    "BosphorusTourTitle": "İstanbul Boğaz Turu",
+    "BosphorusTourText": "Dünyanın en güzel ve en özel şehirlerinden olan İstanbul’da boğaz turu yapmaya ne dersiniz? Pek çok medeniyete ev sahipliği yapmış İstanbul’un eşsiz güzelliklerine şahit olmaya var mısınız? Hem de tüm bu güzellikleri, İstanbul Boğazı’nın tam da ortasından izlemeye ne dersiniz?Yalnızca size ve sevdiklerinize özel olarak hazırlanan comfort ve vip yatlarımızla İstanbul Boğazı’nın maviliklerine doğru muhteşem bir yolculuk yapmaya hazır olun. İstanbul boğaz turu adeta aklınızı başınızdan alacak! Üstelik dileyenler kahvaltı ederek dileyenler ise yemek yiyerek hem gözünü hem de karnını en güzel şekilde doyurabilmektedir.Yatlarımız, Bebek marinada bulunmaktadır. Alış yerimiz ise Anadolu Yakası’ndadır. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket etmekteyiz. Süre boyunca 2 köprü arasında gezdirdiğimizi de belirtmek isteriz. Eğer süre uzarsa İstanbul Boğazı’nı baştan sona doğru gezebileceğinizi de hatırlatmak isteriz."
+  },
+  "IslandTour": {
+    "IslandTourTitle": "Adalar Turu",
+    "IslandTourText": "Gerek yerli gerekse de yabancı turistlerin bir hayli ilgi gösterdiği İstanbul’un en güzel adalarını sizler için bir araya getirdik. Kınalıada, Burgazada, Heybeliada ve Kaşık Adası’nı merak edenler, oralara gitmek için can atanlar, bu adalar turu tam da size göre diyebiliriz!Adaları görmek çok daha yakından tanımak ve oraların muhteşem havasını doyasıya içine çekmek isteyenler bize iletişim kanallarımızdan kolayca ulaşabilmektedir. Ancak altını çizmemiz gereken önemli bir husus bulunmaktadır. İstanbul adalar turu içerisinde yalnızca, Kınalıada, Burgazada, Heybeliada ve Kaşık Adası bulunmaktadır. Eğer, Sedef Adası’nı da merak ediyorsanız, oranın da eşsiz güzelliklerine şahit olmak istiyorsanız, ekstra ücret ödemeniz gerektiğini de vurgulamak isteriz.Yatlarımız Bebek marinada bulunmaktadır. “Adalar turu nereden kalkıyor?” diye merak eden kişileri de hemen bilgilendirmek isteriz. Adalar turu yapmak isteyen kişilerin Kalamış marinada hazır olması gerekmektedir. Yani, alış yerimiz Kalamış marinadır. İstanbul adalar turu saatleri hakkında da bilgi vermek isteriz. Saat 09.00’da Bebek marinada başlayan adalar turu süremiz, akşam saat 18.00’de yine Bebek marinada son bulmaktadır."
+  },
+  "SwimmingTour": {
+    "SwimmingTourTitle": "Yüzme Turları",
+    "SwimmingTourText": "Yüzmeyi bir hayli sevenleri görebilir miyiz? Sayımız da oldukça fazla olduğuna göre sizlere şahane bir haberimiz olduğunu söylemek isteriz. Bizimle Poyrazköy ve Beykoz taraflarında yüzme turuna katılmaya var mısınız? Cevabınızın “Evet” olduğunu duyar gibiyiz doğrusu…Ege’yi özleyenler, Poyrazköy yüzme turu sayesinde özlemini en kolay şekilde dindirebilmektedir. Çünkü, buranın doğa görüntüsü tıpkı Ege’yi andırmaktadır. Ayrıca, deniz de son derece temizdir. Bu durum karşısında gözlerinizin kamaşacağının garantisini de vermekteyiz.    Balık severlere de müjdemiz olduğunu söylemek isteriz. Poyrazköy yüzme turunu tercih edenler, anlaşmalı olan balık restoranlarımızda dilediği gibi balık yiyebilmektedir. Tabii, balığı restoranda yemek istemeyen kişileri de unutmadık! Kişiler, dilerse balığını yatımıza da servis ettirebilmektedir .    Beykoz yüzme turumuz da mesafe olarak oldukça yakındır. Bundan dolayı da bolca vakit geçirebileceğinizi belirtmek isteriz. Ayrıca, burada da denizin son derece temiz olduğunu vurgulamak isteriz. Alış yerimiz Anadolu Yakası’ndadır. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket ettiğimizi söylemek isteriz. İstanbul tekne yüzme turları süresi hakkında da bilgi vermek isteriz. Yüzme turlarımızda başlangıç sabah 10.00, bitiş ise akşam 18.00’dir."
+  },
+  "BacheloretteParty": {
+    "BachelorettePartyTitle": "Bekarlığa Veda Partisi ",
+    "BachelorettePartyText": "Evlenmeye karar veren çiftler, evlilik öncesi kendi arkadaş gruplarıyla bekarlığa veda partisi yapmaktadır. Gerek kadınlar gerekse de erkekler anın tadını çıkarmak ve doyasıya eğlenmek için partilerinin yatta olmasını tercih etmektedir. Tekneler, hem samimi bir ortam oluşması hem de keyifli dakikalar geçirmek adına, bekarlığa veda partisi yapmak isteyen kişiler tarafından oldukça sık bir şekilde tercih edilmektedir. İstanbul’un eşsiz manzarası ve mavi suları eşliğinde bekarlığa veda etmek isterseniz, sizlere seve seve yardımcı olmak isteriz. E hadi, ne duruyorsunuz? Yoksa hala sıkılmadınız mı evde bekarlığa veda partisi yapmaktan?Partide ister dilediğiniz gibi dans edebilir, ister müziğin ritmine kendinizi kaptırabilir, isterseniz de eşsiz manzaraya dalıp gidebilirsiniz. Eğer dilerseniz, canlı müzik ekiplerini de dahil edebilir ya da bir DJ eşliğinde partinin tadını çıkarabilirsiniz. “Edeceğim dansa dansçılar da eşlik etsin” derseniz eğer, sizler için dansçı da kolayca ayarlayabiliriz. Dileyenler, bekarlığa veda partisini yüzme turu eşliğinde de kutlayabilmektedir. O anın nasıl geçmesini istiyorsanız, bizler sizler için en güzel konsepti ayarlayacağız. Yani, bekarlığa veda partisi organizasyonu sizin istediğiniz gibi olacak, bundan asla şüpheniz olmasın. Alış yerimiz Anadolu Yakası’ndadır. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket ettiğimizi söylemek isteriz. Teknemizi, bekarlığa veda partisi için istediğiniz gün ve saate kolayca kiralayabilirsiniz. Bunun için yapmanız gereken tek şey; bizimle anında ve en hızlı şekilde iletişime geçmek."
+  },
+  "MarriageProposal": {
+    "MarriageProposalTitle": "Evlilik Teklifi ",
+    "MarriageProposalText": "Dillere destan bir aşk yaşadınız… Öyle ki, aşkınızla tek bir saniye bile ayrı kalamadığınızı gördünüz… Artık o büyük aşkınızı, evlilikle taçlandırmaya karar verdiniz… Yoksa bu aşamadan sonra ne yapmanız gerektiğine karar veremediniz mi? Evlenmek istiyorsunuz ancak nasıl bir evlilik teklifi edeceğinizi bilmiyorsunuz, öyle değil mi? Eğer, evlilik teklifi konusunda kafanız karışıksa tam da doğru adrestesiniz demektir! Şimdi arkanıza yaslanın ve her şeyi bize bırakın…   Evlilik teklifi her kadının hayalidir hiç şüphesiz. Aşık olduğu kişiyle hayatını birleştirmek öncesinde evlilik teklifi almak neredeyse tüm kadınların hayallerini süslemektedir. Evlilik teklifinin bir teknede yapılması ise hayallerin ötesinde olan bir durumdur. Sevdiğiniz kadının ayağını yerden kesmek ona unutamayacağı dakikalar geçirtmek istiyorsanız size özel olarak hazırlayacağımız konseptler ile sevdiğiniz kişiye teknede evlilik teklifi edebilirsiniz. Üstelik fotoğraf ve videolar sayesinde de unutulmaz anlara bir yenisi daha ekleyebilirsiniz. Sadece fotoğraf ve video ile de bitmiyor. Sürpriz evlilik teklifi edeceğiniz sırada hazırlayacağımız lazer şovla da çok daha romantik dakikalar geçirmenize olanak sağlayacağız.Alış yerimiz hakkında da bilgi vermek isteriz. Alış yerimizin Anadolu Yakası’nda olduğunu belirtmek isteriz. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket etmekteyiz."
+  },
+  "BusinessLunch": {
+    "BusinessLunchTitle": "İş Yemeği ve Özel Toplantılar",
+    "BusinessLunchText": "Çalışan bireyler, iş yemeği mekanları konusunda bazen kararsız olabiliyor. Konuşulacak iş belirli olsa da işin nerede konuşulacağı konusunda bazen karar vermek güç olabiliyor. Sizlere bu konuda harika bir fikir bulduğumuzu söylesek? İş yemeği ve özel toplantılar için bir tekne tercih etmeye ne dersiniz?İş yemeğinin başarılı geçmesi iş insanları için son derece önemlidir. O yüzden yemekte ne konuşulduğunun yanında, yemeğin nerede yendiği de oldukça önemli olmaktadır. İş yemeği, hem üzerinde en titiz şekilde düşünmeyi hem en iyi şekilde planlamayı hem de ayrıntılara dikkat etmeyi gerektirmektedir. Bahsettiğimiz bu durumlar, başarılı bir iş yemeği için olmazsa olmazlar arasındadır.Yemek sırasında göstermiş olduğunuz davranış, karşınızdaki kişiler tarafından en iyi şekilde gözlemlenmekte ve değerlendirmeye alınmaktadır. İş ilişkisinde olduğunuz kişileri etkilemek ve davranışlarınızın çok daha olumlu yansıması adına ise teknede iş yemeği sizler için harika bir fırsat olabilir.Bebek marinada bulunan yatlarımızın yemek menüsünün de bir hayli zengin olduğunu söylemek isteriz. O yüzden damak tadınıza en uygun olan lezzetleri kolayca bulabileceğinizin garantisini de vermekteyiz. İş yemeği ve özel toplantılar boğazın eşsiz manzarası karşısında çok daha anlamlı olacak, bizden demesi… Detayları görüşmek için bizlere iletişim kanallarımızdan kolay bir şekilde ulaşabilirsiniz."
+  },
+  "Anniversary": {
+    "AnniversaryTitle": "Yıl Dönümü Kutlamaları",
+    "AnniversaryText": "En özel günlerin başında gelir yıl dönümleri… Böylesine özel günlerin de en özel yerlerde kutlaması gerekir hiç şüphesiz. Her sene, yıl dönümlerinizi evinizde, dışarıda bir akşam yemeğinde ya da herhangi bir mekanda kutlamaktan sıkılmadınız mı? Eğer sıkıldıysanız sizlere muhteşem bir önerimiz var! Bu yıl o özel dakikaları bir teknede, mavi suların eşsiz görüntüsü eşliğinde kutlamaya ne dersiniz? Teknede yıl dönümü kutlamaları gözünüzün önüne geldiğinde kalbinizin küt küt attığını duyar gibiyiz… O halde ne duruyorsunuz? Size bir telefon kadar yakın olduğumuzu söylemek isteriz.   Evlilik yıl dönümü kutlamaları ve daha başka özel günlerinizi ister baş başa, isterseniz de arkadaş grubunuzla en eğlenceli şekilde geçirebilirsiniz. Teknemizin içini de özel gününüze yakışır şekilde istediğiniz gibi süsletebilirsiniz. O gün, teknemiz siz nasıl isterseniz o şekilde karşınıza çıkacak, bundan hiç şüpheniz olmasın… Rüya gibi dakikalar geçirmek ileride çocuklarınıza hatta torunlarınıza anlatacak anı biriktirmek istiyorsanız, bizlere iletişim numaralarımızdan anında ve en hızlı şekilde ulaşabilirsiniz. Yıl dönümü kutlamaları için alış yerimiz Anadolu Yakası’ndadır. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket ettiğimizi söylemek isteriz."
+  },
+  "AboutUsPage": {
+    "PageName": "Hakkımızda",
+    "Icon1Title": "Ekonomik Fiyatlar",
+    "Icon1Text": "Rekabetçi ve kaliteden ödün vermeksizin sürekli ekonomik ve kaliteli hizmet prensibi.",
+    "Icon2Title": "Birinci Sınıf Filosu ve Çalışanlar",
+    "Icon2Text": "Gelişen ve geliştirilen filosu ile herzaman en iyi yat filosu ve çalışanları ile birlikte hizmetinizde.",
+    "Icon3Title": "5 Yıldan Fazla Denizcilik Tecrübesi",
+    "Icon3Text": "Rekabetçi ve kaliteden ödün vermeksizin sürekli ekonomik ve kaliteli hizmet prensibi.",
+    "AboutSealifeTitle": "Sealife Hakkında    ",
+    "AboutSealifeText": "Daima en iyi hizmet sloganı ile yola çıkan SeaLife yatçılık her zaman müşteri memnuniyeti ve müşteri deneyimini ön planda tutmuştur. Yat kiralama faaliyetlerinin tamamı vergi mükellefi olan firmamız tarafından yürütülmektedir. Siz değerli konuklarımıza seyir boyunca turlarımızda ev konforunu yaşatmak için geniş yat filomuz ile hizmet vermekten mutluluk duyarız. Firmamız; İstanbul yanısıra (Beykoz koyu, Adalar, Poyrazköy 3.köprü) Muğla (Bodrum, Göcek) da yat kiralama hizmeti vermektedir. Yatlarımız; Evlilik teklifi , Bekarlığa veda partileri, Seyahat turları, Konaklamalı turlar, İş yemeği ve seyahatleri, yüzme turları gibi birçok alnda sizin hizmetinizdedir. Bu seyirler için yemek, sıcak ve soğuk içecek servisleri, eğlence aktiviteleri, lazer ve havai fişek gösterileri seçeneklerimiz mevcut olup siz değerli konuklarımıza kaliteli hizmet sunmayı hedeflemekteyiz.",
+    "UpdatedYachtModels": "2020 Model Yeni ve Güncel Yat Modelleri    ",
+    "CurrentyachtFleetTitle": "Güncel Yat Filomuz.",
+    "CurrentyachtFleetText": "Seyirinizi ve eğlencenizi daha konforlu kılmak için, 2020 model güncel yat filomuzun ortak öne çıkan özelliklerini sizler için bir araya getirdik. Tüm yat modellerimizde belirtilen özellikler yer almaktadır.",
+    "Feature1": "220v Kullanılabilir elektrik priz (JENERATÖR)",
+    "Feature2": "2 Adet WC ve Duş",
+    "Feature3": "Mevsime göre Isıtma ve soğutma imkanı",
+    "Feature4": "Tüm paketlerde ücretsiz sıcak içecek ikramı",
+    "Feature5": "Ücretsiz Wi-Fi Hotspot imkanı    ",
+    "Feature6": "Güler yüzlü servis personeli",
+    "Feature7": "Müzik ses sistemi",
+    "Feature8": "Işıklandırma sistemleri",
+    "Feature9": "TV Sistemi",
+    "SealifeHistoryTitle": "Sealife Tarihçesi",
+    "SealifeHistoryText": "Kuruluşumuzdan günümüze şirketimiz hakkında ",
+    "2010Title": "SeaLife Yat Kiralama Hizmetine Başladı",
+    "2010Text": "Denizcilik alanında faaliyet gösteren şirketimiz kurumsal anlamda yat kiralama hizmetine ilk olarak 2010 yılında değerli müşterilerine yat kiralama hizmeti vermeye başlamıştır.",
+    "2015Title": "İlk Büyüme Hedefi",
+    "2015Text": "Artan arz talep doğrultusunda daima en iyi hizmet anlayışını benimseyen personel kadrosu ile sealife yatçılık, 2015 yılında yat filosunu 2 katı büyütmeyi hedeflemiş ve filosunu geliştirmeye gitmiştir.",
+    "2020Title": "Gelişen Teknolojiye Uyum  ",
+    "2020Text": "2010 yılında kurumsal anlamda yat kiralama hizmeti vermekte olan sealife yatçılık, gelişen teknoloji çağına ayak uydurarak kurumsal web arayüz ve sosyal medya hesaplarını oluşturarak yeni kanallardan müşterilerine daha ulaşılabilir olmuştur.Aynı şekilde gelişen teknolojiye ayak uydurmak adına tüm yatlarında internet, televizyon ve elektrik ihtiyaçları gibi günümüz konfor şartlarına uygun lüks hizmetleri siz değerli misafirlerin hizmet kullanımına sunmuştur."
+  },
+  "BoatSpecifications": {
+    "BoatSpecifications": "Tekne Özellikleri",
+    "BoatType": "Tekne Tipi",
+    "Motoryacht": "Motoryat",
+    "Length": "Uzunluk",
+    "Width": "Genişlik",
+    "NumberofCabin": "Kabin Adedi",
+    "PassengerCapacity": "Yolcu Kapasitesi (Günübirlik)",
+    "Crew": "Mürettebat",
+    "Speed": "Sürat",
+    "Meter": "metre",
+    "Hour": "Saat"
+  },
+  "Services": {}
+}

@@ -1,0 +1,29 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.aboutus-icon {
+  height: 125px;
+  width: 125px;
+  border: 1px dashed #0075dc;
+  border-radius: 50%;
+  position: relative;
+  margin-bottom: 55px;
+}
+.icon {
+  position: absolute;
+  top: 18%;
+  left: 28%;
+  height: 55px;
+  width: 55px;
+  color: #0075dc;
+}
+.aboutus-icon-title {
+  font-size: 22px;
+  font-weight: 700;
+}
+.about-sealife {
+  width: 1000px;
+  @include media-breakpoint-down(md) {
+    width: 328px;
+  }
+}

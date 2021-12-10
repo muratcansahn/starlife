@@ -1,0 +1,55 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.footer {
+  padding-top: 90px;
+  padding-bottom: 80px;
+  background-color: #222222;
+  color: #999;
+}
+.footer-col {
+  width: 290px;
+}
+.footer-logo-text {
+  margin-top: 17px;
+}
+.footer-title {
+  color: white !important;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+.footer-icon-text {
+  padding-left: 16px;
+}
+.footer-phone {
+  font-size: 18px;
+  line-height: 22.5px;
+  font-weight: 700;
+  color: #fff;
+}
+ul li {
+  margin-top: 5px;
+}
+.social-icon {
+  height: 35px;
+  width: 35px;
+  border: 1px solid #999;
+  border-radius: 50%;
+}
+
+.corporate {
+  width: 125px;
+  ul {
+    padding: 0px;
+    li {
+      list-style-type: none;
+      a {
+        text-decoration: none !important;
+        color: #999;
+      }
+    }
+  }
+}
+.nuensoft-logo {
+  background-color: #222222;
+}

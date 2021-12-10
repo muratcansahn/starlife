@@ -1,0 +1,14 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.call-us {
+  border-bottom: 1px solid black;
+  border-bottom-style: dashed;
+}
+.contact-bar {
+  display: flex;
+
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}

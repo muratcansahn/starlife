@@ -1,0 +1,36 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.bluebg-box {
+  height: 260px;
+  background-image: url("../../public/images/blue-bg.png");
+  margin-top: 30px;
+  display: flex;
+  @include media-breakpoint-down(lg) {
+    display: none !important;
+  }
+}
+.bluebg-left {
+  height: 100px;
+  width: 650px;
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
+.bluebg-text {
+  padding-left: 30px;
+}
+.yachts-button {
+  font-size: 18px;
+  font-weight: 600;
+  padding: 20px 33px;
+  background-color: rgb(28, 73, 112);
+}
+.upper-footer-img {
+  height: 260px;
+  width: 400px;
+  object-fit: cover;
+}
+.bluebg-right {
+  width: 700px;
+}

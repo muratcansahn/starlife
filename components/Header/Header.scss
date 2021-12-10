@@ -1,0 +1,146 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.right-menu {
+  ul {
+    padding: 0px !important;
+
+    li {
+      list-style-type: none;
+
+      a {
+        font-size: 16px;
+        font-weight: 700;
+        text-decoration: none;
+        color: $secondary;
+        @include media-breakpoint-down(md) {
+          color: $primary;
+        }
+      }
+    }
+  }
+}
+
+.main-navbar {
+  margin-right: 7px !important;
+  padding-top: 10px;
+
+  span {
+    font-size: 30px;
+    color: black;
+    @include media-breakpoint-up(lg) {
+      display: none;
+    }
+  }
+}
+.rent-button {
+  color: aliceblue;
+  padding: 10px;
+  margin-left: 30px;
+  width: 150px;
+  font-size: 16px;
+  background-color: #1c4970;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 260px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  font-family: "Lato", serif;
+  font-weight: normal;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.services {
+  font-weight: 700;
+  font-size: 16px;
+  padding-left: 55px;
+}
+.text-active {
+  color: $primary;
+}
+.menu {
+  display: flex;
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}
+.sidenav {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 76px !important;
+  left: 0;
+  background-color: #ffffffec;
+  overflow-x: hidden;
+  transition: 0.5s;
+  text-align: start;
+}
+
+.sidenav {
+  ul {
+    font-size: 15px;
+    font-weight: 600;
+    padding: 0;
+    li {
+      list-style-type: none;
+
+      a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 15px;
+        color: #000000 !important;
+        display: block;
+        transition: 0.3s;
+      }
+    }
+  }
+}
+.sidenav hr {
+  border-top: 3px double rgb(255 255 255 / 30%);
+}
+
+.logo {
+  img {
+    @include media-breakpoint-down(lg) {
+      height: 45px;
+      width: 160px;
+    }
+    @include media-breakpoint-down(sm) {
+      height: 45px;
+      width: 150px !important;
+    }
+  }
+}
+.sidebar-bottom {
+  margin-top: 50px;
+}
+.mobile-lang-switcher {
+  @include media-breakpoint-up(lg) {
+    display: none !important;
+  }
+}
+.right-menu {
+  margin-left: 10ppx !important;
+}
+.left-100 {
+  margin-left: -100%;
+}
+.left-0 {
+  margin-left: 0;
+}

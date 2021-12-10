@@ -1,0 +1,19 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.component-header-title {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.component-header-text {
+  color: #666;
+  @include media-breakpoint-down(lg) {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+.component-header {
+  margin-bottom: 20px;
+  margin-top: 50px;
+}

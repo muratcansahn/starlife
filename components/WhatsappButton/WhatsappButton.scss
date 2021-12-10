@@ -1,0 +1,30 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.whatsapp-chat {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  padding: 5px 10px;
+
+  z-index: 1030;
+  background-color: #56d062;
+  border-radius: 14px !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+  @include media-breakpoint-down(md) {
+  }
+  @include media-breakpoint-down(md) {
+    height: 50px;
+    width: 50px;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+.live-support-text {
+  color: white;
+
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
+}

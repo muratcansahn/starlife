@@ -1,0 +1,34 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.contact-icons {
+  font-size: 20px;
+  @include media-breakpoint-down(lg) {
+    font-size: 15px;
+  }
+}
+.underline {
+  width: 430px;
+  @include media-breakpoint-down(lg) {
+    width: 260px;
+  }
+}
+.contact-page-title {
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.contact-row {
+  display: flex;
+  align-items: flex-start;
+  margin-left: 48px;
+  margin-right: 48px;
+  @include media-breakpoint-down(lg) {
+    margin: 0;
+  }
+  p {
+    @include media-breakpoint-down(lg) {
+      margin-top: 10px;
+    }
+  }
+}

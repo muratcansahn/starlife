@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sealife-dev-03244-authRole",
+      "UnauthRoleArn": "arn:aws:iam::456755090154:role/amplify-sealife-dev-03244-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::456755090154:role/amplify-sealife-dev-03244-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-sealife-dev-03244-deployment",
+      "UnauthRoleName": "amplify-sealife-dev-03244-unauthRole",
+      "StackName": "amplify-sealife-dev-03244",
+      "StackId": "arn:aws:cloudformation:eu-central-1:456755090154:stack/amplify-sealife-dev-03244/edb86590-39c8-11ec-9194-0a334edc70a6",
+      "AmplifyAppId": "d2wbc1jlus43cp"
+    }
+  }
+}

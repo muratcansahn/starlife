@@ -1,0 +1,74 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+.col-1 {
+  background-color: #e6ffec;
+  height: 250px;
+  width: 250px !important;
+  position: relative;
+  img {
+    position: absolute;
+    bottom: 25px;
+    left: 56px;
+  }
+  h4 {
+    position: absolute;
+    top: 30px;
+  }
+}
+
+.col-2 {
+  background-color: #d3f7ff;
+  height: 250px;
+  width: 250px !important;
+  position: relative;
+  img {
+    position: absolute;
+    bottom: 25px;
+    left: 56px;
+  }
+  h4 {
+    position: absolute;
+    top: 30px;
+  }
+}
+.col-3 {
+  background-color: #fff6eb;
+  height: 250px;
+  width: 250px !important;
+  position: relative;
+  img {
+    position: absolute;
+    bottom: 25px;
+    left: 56px;
+  }
+  h4 {
+    position: absolute;
+    top: 30px;
+  }
+}
+.yacht {
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}
+// .component-header-title {
+//   font-size: 40px;
+//   font-weight: 700;
+// }
+
+// .component-header-text {
+//   color: #666;
+// }
+.rent-pictures {
+  font-size: 20px;
+  font-weight: 550;
+  margin-top: 40px;
+}
+.number {
+  position: absolute;
+  color: white;
+  font-size: 177px;
+  font-weight: 700;
+  right: -18px;
+  top: 57px;
+}

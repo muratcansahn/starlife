@@ -1,0 +1,63 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.policy {
+  background: url(../../public/images/policy-bg.jpg) no-repeat center center;
+  background-size: cover;
+  height: 550px;
+  padding-bottom: 100px;
+  overflow-x: hidden !important;
+  overflow-y: hidden !important;
+  border-bottom-left-radius: 700px 70px;
+  border-bottom-right-radius: 700px 70px;
+  @include media-breakpoint-down(lg) {
+    height: 1250px;
+  }
+}
+.policy-text {
+  color: white;
+  margin-bottom: 16px;
+  @include media-breakpoint-down(lg) {
+    margin-left: 10px;
+  }
+  text-align: center;
+}
+.policy-title {
+  font-weight: 600;
+  margin-top: 90px !important;
+  margin-bottom: 20px !important;
+  @include media-breakpoint-down(lg) {
+    text-align: center;
+  }
+}
+.circle {
+  background-color: rgb(220, 220, 220) !important;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: relative;
+  @include media-breakpoint-down(lg) {
+    margin-top: 20px;
+  }
+}
+.row {
+  // display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+
+.policy-icon {
+  position: absolute;
+}
+.policy-icon-text {
+  margin-top: 18px;
+  margin-bottom: 0;
+}
+#circles-wrapper {
+  margin-top: 40px !important;
+}
+.circles {
+  @include media-breakpoint-down(lg) {
+    padding: 0 !important;
+  }
+}

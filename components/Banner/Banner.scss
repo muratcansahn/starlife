@@ -1,0 +1,48 @@
+@import "bootstrap/scss/mixins";
+@import "../../styles/variables.scss";
+
+.banner {
+  position: relative;
+  margin-top: 185px;
+  @include media-breakpoint-down(lg) {
+    margin-top: 60px;
+  }
+}
+
+.banner-title {
+  position: absolute;
+  width: 550px;
+  top: 34%;
+  left: 13%;
+  font-size: 55px;
+  color: white;
+  font-weight: 600;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  @include media-breakpoint-down(lg) {
+    font-size: 30px;
+    top: 20%;
+    font-weight: 500;
+    width: 250px;
+  }
+}
+.banner-images {
+  position: relative;
+}
+.banner-ribon {
+  position: absolute;
+  left: 2%;
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}
+.banner-image-2 {
+  @include media-breakpoint-down(lg) {
+    filter: brightness(70%);
+  }
+}
+.banner-image {
+  height: 770px;
+  @include media-breakpoint-down(lg) {
+    height: auto;
+  }
+}

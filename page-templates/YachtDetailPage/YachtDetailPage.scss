@@ -1,0 +1,54 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.services-underline:after {
+  content: " ";
+  display: block;
+
+  border-top: 2px solid #bc1834;
+  height: 0;
+  width: auto;
+  min-width: 40px;
+
+  bottom: 0.1em;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.boat-title {
+  font-size: 50px;
+  font-weight: 600;
+  color: rgb(0, 0, 0) !important;
+}
+.card-image {
+  object-fit: cover !important;
+  border: 3px solid #fff;
+}
+.boat-detail-header {
+  height: 200px;
+  margin-bottom: 50px;
+
+  // img {
+  //   height: 300px;
+  //   position: absolute;
+  //   width: 500px;
+  //   margin-bottom: 50px;
+  //   top: 0;
+  //   left: 30%;
+  //   z-index: 1;
+  // }
+}
+.boat-specifications {
+  background-color: #e7e8e98e;
+  padding: 5px 50px;
+  border-radius: 3%;
+  @include media-breakpoint-down(lg) {
+    padding: 5px 10px;
+  }
+}
+.margin-top {
+  margin-top: 185px;
+  @include media-breakpoint-down(lg) {
+    margin-top: 80px;
+  }
+}

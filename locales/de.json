@@ -1,0 +1,181 @@
+{
+  "Header": {
+    "homepage": "HOMEPAGE",
+    "services": "DIENSTLEISTUNGEN",
+    "aboutUs": "ÜBER UNS",
+    "contact": "KONTAKT",
+    "call": "Aufruf",
+    "callUs": "Rufen Sie uns an",
+    "whatsAppBtn": "Live-Unterstützung",
+    "BosphorusTourTitle": "Istanbul Bosporus-Tour",
+    "IslandTourTitle": "Inseln Tour",
+    "SwimmingTourTitle": "Schwimmtouren",
+    "BachelorettePartyTitle": "Junggesellinnenparty ",
+    "MarriageProposalTitle": "Heiratsantrag ",
+    "BusinessLunchTitle": "Geschäftsessen und private Meetings",
+    "AnniversaryTitle": "Jubiläumsfeiern"
+  },
+
+  "Home": {
+    "title": "Sealife Yachtvermietung",
+    "description": ""
+  },
+
+  "Contact": {
+    "title": "Kontakt | Sealife Yachtvermietung",
+    "description": "Sealife Kontaktkanäle",
+    "pageName": "Kontakt",
+    "location": "Standort"
+  },
+  "AboutUs": {
+    "title": "Über Uns | Sealife Yachtvermietung",
+    "description": "Wir freuen uns, Ihnen, unseren geschätzten Gästen, mit unserer großen Flotte von Yachten zur Verfügung zu stehen, damit Sie sich während unserer Touren wie zu Hause fühlen."
+  },
+  "Banner": {
+    "FirstText": "Wie möchten Sie Ihr Verständnis von Unterhaltung ändern?",
+    "SecondText": "Sonderpreise für Website-Launch"
+  },
+  "YachtRent": {
+    "YachtRentTitle": "Yachtcharter Service",
+    "YachtRentText": "Wenn Sie unseren Yachtcharter-Service in Anspruch nehmen möchten,Nur 3 einfache Schritte zu tun!",
+    "Col1": "Listen Sie Yachten auf, indem Sie den Standort auswählen",
+    "Col2": "Vergleichen Sie Yachten und wählen Sie die richtige aus",
+    "Col3": "Bezahlen und mieten, das war's!"
+  },
+  "YachtFleet": {
+    "YachtFleetTitle": "Unsere Yachtflotte",
+    "YachtFleetText": "Sie können unsere Yachtflotte besichtigen, wo Sie auf die beste Weise empfangen werden,Sie können eine Yacht mieten, um eine bessere Zeit zu haben."
+  },
+  "BoatIcons": {
+    "Icon1": "Heißgetränke Service",
+    "Icon2": "Warm-Kalt Klimaanlage Option",
+    "Icon3": "Besondere Ereignisse",
+    "Icon4": "Erstklassige Servicequalität",
+    "Icon5": "Professionelle Servicequalität",
+    "Review": "Bewertung Yacht"
+  },
+  "Policy": {
+    "PolicyTitle": "Verfügbar für alle unsere Dienste",
+    "PolicyText": "Sıcak-Soğuk Klima Seçeneği",
+    "PrincipleIconText1": "Bester Service",
+    "PrincipleIconText2": "Zuverlässiger Service",
+    "PrincipleIconText3": "24/7 Unterstützung  ",
+    "PrincipleIconText4": "Fairer Preis",
+    "PrincipleIconText5": "Feierlichkeiten"
+  },
+  "BannerDown": {
+    "Experience": "Jahre Erfahrung",
+    "Rezervation": "Reservierung",
+    "YachtNumber": "Yachten",
+    "HappyCustomer": "Zufriedener Kunde"
+  },
+  "WhySealife": {
+    "WhySealifeTitle": "Warum Sealife ?",
+    "WhySealifeText": "Unsere Grundsätze gelten für alle Yachtcharter und maritimen Dienstleistungen",
+    "Experience5Year": "Mehr als 5 Jahre Maritime Erfahrung",
+    "Experience5YearText": "Wir sind in der Unternehmensdienstleistungsbranche Über 30 Jahre maritime Erfahrung!",
+    "SpecialDayService": "Zu Ihren Diensten an besonderen Tagen und Veranstaltungen",
+    "SpecialDayServiceText": "Zu Ihren Diensten, unseren geschätzten Gästen, für Ihre Unterhaltung oder professionelle Geschäftsessen.",
+    "FirstClassFleet": "First Class Flotte und Personal",
+    "FirstClassFleetText": "Erstklassige Yachtflotte und Mitarbeiter, die eine familiäre Atmosphäre für Ihren Komfort bieten.",
+    "MarriageProposal": "Heiratsantrag und Geburtstagsüberraschungen",
+    "MarriageProposalText": "Heiratsantrag und Geburtstagsüberraschungen"
+  },
+  "SealifeOnSocialMedia": {
+    "SocialMediaTitle": "SeaLife in sozialen Medien",
+    "SocialMediaText": "Teilen Sie Ihre Erfahrungen in den sozialen Medien und gewinnen Sie Überraschungsgeschenke und Yachttouren.",
+    "HappyandSatisfiedTitle": "Glücklich und zufrieden Alles für Sie zu verlassen!",
+    "HappyandSatisfiedText": "Für Ihr Glück bei jedem Yachtcharter und Eventservice Alle Vorbereitungen und Prozesse sind perfekt vorbereitet.",
+    "MarriageProposalTitle": "Heiratsantrag",
+    "MarriageProposalText": "Du hattest eine legendäre Liebe... So sehr, dass du erkannt hast, dass du nicht eine einzige Sekunde von deiner Liebe getrennt sein kannst... Nun habt ihr beschlossen, eure große Liebe mit der Heirat zu krönen... Oder konntet ihr euch nicht entscheiden, was ihr nach dieser Phase tun wollt?",
+    "BreakFastTitle": "Frühstück und Mahlzeiten",
+    "BreakFastText": "Vergessen Sie nicht, dass wir uns sehr freuen werden, Sie, unsere geschätzten Gäste, zu bedienen, die von der gewöhnlichen und erdrückenden Atmosphäre der Stadt gelangweilt sind und die der Unterhaltung oder dem Geschäftsessen in einer anderen Atmosphäre, mit speziellen Menüs und einem einzigartigen Blick auf den Bosporus und das Meer einen Sinn geben wollen.",
+    "SpecialDaysTitle": "Spezielle Tage",
+    "SpecialDaysText": "Wie wäre es, wenn Sie den Menschen oder den Tag, den Sie besonders machen, noch besonderer machen? Mit unserem privaten Tages-Yachtcharter-Service, der unter den Yachtcharter-Services am meisten bevorzugt wird, bieten wir ein einzigartiges Erlebnis und Vergnügen, indem wir die Wünsche unserer geschätzten Gäste an ihren besonderen Tagen erfüllen.",
+    "BreakfastTitle2": "Frühstück"
+  },
+  "UpperFooter": {
+    "UpperFooterText": "Wie möchten Sie Ihre besonderen Tage und Events auf einer Luxusyacht organisieren?"
+  },
+  "Footer": {
+    "LogoText": "Unter dem Motto immer den besten Service hat SeaLife Yachting seit jeher Kundenzufriedenheit und Kundenerlebnis priorisiert. Alle Yachtcharter-Aktivitäten werden von unserem Unternehmen durchgeführt, das ein Steuerzahler ist.",
+    "ContactInfo": "Unsere Kontaktdaten",
+    "Corporal": "Unternehmen",
+    "AboutUs": "Über Uns",
+    "ContactFooter": "Kommunikation",
+    "OurServices": "Unsere Dienstleistungen",
+    "FollowUs": "Folge Uns"
+  },
+  "BosphorusTour": {
+    "BosphorusTourTitle": "Istanbul Bosporus-Tour",
+    "BosphorusTourText": "Hätten Sie Lust auf eine Bosporus-Tour in Istanbul, einer der schönsten und außergewöhnlichsten Städte der Welt? Sind Sie bereit, die einzigartigen Schönheiten Istanbuls zu erleben, das viele Zivilisationen beherbergt hat? Und wie wäre es, all diese Schönheiten inmitten des Bosporus zu sehen? Machen Sie sich bereit für eine herrliche Reise zu den blauen Flecken des Bosporus mit unseren Komfort- und VIP-Yachten, die speziell für Sie und Ihre Lieben vorbereitet wurden. Istanbul Bosphorus Tour wird Sie umhauen! Und wer möchte, kann frühstücken, und wer möchte, kann seine Augen und seinen Magen auf die bestmögliche Art und Weise füllen. Unsere Yachten liegen im Yachthafen von Bebek. Unser Einkaufsort liegt auf der anatolischen Seite. Wir ziehen vom Çengelköy Kuleli Militärgymnasium am Ufer des Bosporus um. Wir möchten darauf hinweisen, dass wir in der Zeit eine Tour zwischen 2 Brücken gemacht haben. Wenn die Zeit länger ist, möchten wir Sie daran erinnern, dass Sie den Bosporus von Anfang bis Ende besichtigen können."
+  },
+  "IslandTour": {
+    "IslandTourTitle": "Inseln Tour",
+    "IslandTourText": "Wir haben die schönsten Inseln Istanbuls zusammengestellt, auf denen sowohl in- als auch ausländische Touristen großes Interesse zeigen. Diejenigen, die neugierig auf Kınalıada, Burgazada, Heybeliada und Kaşık Island sind, und diejenigen, die gerne dorthin gehen möchten, können sagen, dass diese Inseltour genau das Richtige für Sie ist!Wer die Inseln sehen, näher kennenlernen und die herrliche Atmosphäre dieser Orte aufsaugen möchte, erreicht uns ganz einfach über unsere Kommunikationskanäle. Es ist jedoch ein wichtiger Punkt zu unterstreichen. Innerhalb der Istanbul-Archipeltour gibt es nur Kınalıada, Burgazada, Heybeliada und Kaşık Island. Wenn Sie auch neugierig auf die Insel Sedef sind, wenn Sie ihre einzigartigen Schönheiten erleben möchten, möchten wir betonen, dass Sie eine zusätzliche Gebühr zahlen müssen.Unsere Yachten befinden sich in der Marina von Bebek. „Wo startet die Inselrundfahrt?“ Wir möchten diejenigen, die sich darüber wundern, sofort informieren. Wer die Inseln erkunden möchte, sollte sich am Jachthafen von Kalamış bereithalten. Unser Einkaufsort ist also der Jachthafen von Kalamış. Wir möchten Sie über die Tourzeiten der Istanbul Inseln informieren. Unsere Inseltour beginnt um 09:00 Uhr am Yachthafen von Bebek und endet um 18:00 Uhr am Yachthafen von Bebek."
+  },
+  "SwimmingTour": {
+    "SwimmingTourTitle": "Schwimmtouren",
+    "SwimmingTourText": "Können wir diejenigen sehen, die gerne und viel schwimmen? Da unsere Zahl ziemlich groß ist, möchten wir Ihnen mitteilen, dass wir tolle Neuigkeiten haben. Sind Sie bereit, mit uns in Poyrazköy und Beykoz schwimmen zu gehen? Wir scheinen zu hören, dass Ihre Antwort JA ist ... Diejenigen, die die Ägäis vermissen, können ihre Sehnsucht dank der Poyrazköy Schwimmtour leicht lindern. Denn der Blick auf die Natur an diesem Ort ist genau wie die Ägäis. Außerdem ist das Meer extrem sauber. Wir garantieren auch, dass Sie von dieser Situation geblendet sein werden. Für Fischliebhaber haben wir eine gute Nachricht zu verkünden. Diejenigen, die die Poyrazköy-Badetour bevorzugen, können in unseren Vertragsfischrestaurants nach Belieben Fisch essen. Natürlich haben wir auch die Leute nicht vergessen, die den Fisch nicht im Restaurant essen wollen! Wer möchte, kann sich seinen Fisch auch auf unserer Yacht servieren lassen. Unsere Beykoz-Schwimmtour ist auch sehr nahe gelegen. Deshalb möchten wir Sie darauf hinweisen, dass Sie sich viel Zeit nehmen können. Wir möchten auch betonen, dass das Meer auch hier sehr sauber ist. Unser Einkaufsort befindet sich auf der anatolischen Seite. Wir möchten sagen, dass wir von der Çengelköy Kuleli Militärhochschule, die am Ufer des Bosporus liegt, abgereist sind. Wir möchten Sie über die Dauer der Istanbuler Bootstouren informieren. Unsere Schwimmtouren beginnen um 10:00 Uhr morgens und enden um 18:00 Uhr abends."
+  },
+  "BacheloretteParty": {
+    "BachelorettePartyTitle": "Junggesellinnenparty",
+    "BachelorettePartyText": "Paare, die heiraten wollen, veranstalten vor der Hochzeit einen Junggesellinnenabschied mit ihrer eigenen Gruppe von Freunden. Sowohl Frauen als auch Männer ziehen es vor, ihre Partys auf einer Yacht zu feiern, um den Moment zu genießen und Spaß in vollen Zügen zu haben. Boote werden häufig von Leuten bevorzugt, die einen Junggesellinnenabschied feiern wollen, um eine freundliche Atmosphäre zu schaffen und angenehme Momente zu erleben. Wenn Sie Ihren Junggesellinnenabschied mit der einzigartigen Aussicht und dem blauen Wasser Istanbuls feiern möchten, sind wir Ihnen gerne behilflich. Also los, worauf warten Sie noch? Oder habt ihr immer noch keine Lust auf einen Junggesellinnenabschied zu Hause? Auf der Party können Sie nach Herzenslust tanzen, sich vom Rhythmus der Musik mitreißen lassen oder einfach nur in die einzigartige Kulisse eintauchen. Wenn Sie möchten, können Sie Live-Bands einbeziehen oder die Party mit einem DJ genießen. Wenn Sie sagen: -Die Tänzer sollen den Tanz begleiten, den ich vorhabe, können wir problemlos einen Tänzer für Sie organisieren. Wer möchte, kann den Junggesellinnenabschied auch in Begleitung einer Schwimmtour feiern. Wie ihr diesen Moment erleben wollt, wir werden das schönste Konzept für euch arrangieren. Die Organisation des Junggesellinnenabschieds wird also so sein, wie Sie es sich wünschen, daran können Sie nicht zweifeln. Unser Einkaufsort befindet sich auf der anatolischen Seite. Wir möchten sagen, dass wir von der Çengelköy Kuleli Militärhochschule, die am Ufer des Bosporus liegt, abgefahren sind. Sie können unser Boot für den Junggesellinnenabschied ganz einfach für den Tag und die Zeit, die Sie wünschen, mieten. Alles, was Sie dafür tun müssen, ist, uns sofort und auf dem schnellsten Weg zu kontaktieren."
+  },
+  "MarriageProposal": {
+    "MarriageProposalTitle": "Heiratsantrag",
+    "MarriageProposalText": "Du hattest eine legendäre Liebe... So sehr, dass du sahst, dass du keine Sekunde von deiner Liebe getrennt sein konntest... Jetzt hast du dich entschieden, deine große Liebe mit einer Ehe zu krönen... Oder nicht? entscheiden, was nach dieser Phase zu tun ist? Sie möchten heiraten, wissen aber nicht, wie Sie einen Heiratsantrag machen sollen, oder? Wenn Sie über einen Heiratsantrag verwirrt sind, sind Sie hier genau richtig! Jetzt lehnen Sie sich zurück und überlassen Sie uns alles… Heiratsantrag ist zweifellos der Traum jeder Frau. Einen Heiratsantrag zu bekommen, bevor sie ihr Leben mit der Person, die sie liebt, verbindet, ist der Traum fast aller Frauen. Einen Heiratsantrag auf einem Boot zu machen ist jenseits aller Vorstellungskraft. Wenn Sie der Frau, die Sie lieben, die Füße abschneiden und ihr unvergessliche Momente schenken möchten, können Sie der Person, die Sie lieben, auf dem Boot mit den Konzepten, die wir speziell für Sie vorbereiten, einen Heiratsantrag machen. Darüber hinaus können Sie dank Fotos und Videos unvergesslichen Momenten ein neues hinzufügen. Es endet nicht nur mit Fotos und Videos. Wir ermöglichen Ihnen auch, romantischere Momente mit der Lasershow zu verbringen, die wir vorbereiten, während Sie eine Überraschungsheirat vorschlagen. Wir möchten darauf hinweisen, dass sich unser Einkaufsort auf der anatolischen Seite befindet. Wir ziehen vom Militärgymnasium Çengelköy Kuleli am Ufer des Bosporus um."
+  },
+  "BusinessLunch": {
+    "BusinessLunchTitle": "Geschäftsessen und private Meetings ",
+    "BusinessLunchText": "Berufstätige Personen können manchmal unentschlossen sein über die Veranstaltungsorte für Geschäftsessen. Obwohl der zu besprechende Job sicher ist, kann es manchmal schwierig sein, zu entscheiden, wo über den Job gesprochen werden soll. Was wäre, wenn wir Ihnen sagen, dass wir eine großartige Idee dazu gefunden haben? Wie wäre es mit der Wahl eines Bootes für Geschäftsessen und private Meetings?Für Geschäftsleute ist ein erfolgreiches Geschäftsessen äußerst wichtig. Daher ist es neben dem, was beim Abendessen gesprochen wird, auch sehr wichtig, wo gegessen wird. Ein Geschäftsessen erfordert sorgfältige Überlegung, Planung und Liebe zum Detail. Diese Situationen stellen eine unabdingbare Voraussetzung für ein erfolgreiches Geschäftsessen dar. Ihr Verhalten während des Essens wird am besten von Ihren Mitmenschen beobachtet und bewertet. Um die Menschen, mit denen Sie eine Geschäftsbeziehung haben, zu beeindrucken und Ihr Verhalten positiver widerzuspiegeln, kann ein Geschäftsessen auf dem Boot eine großartige Gelegenheit für Sie sein.Wir möchten sagen, dass die Abendkarte unserer Yachten in Bebek Marina ist auch recht reich. Deshalb garantieren wir Ihnen, dass Sie ganz einfach die für Ihren Geschmack am besten geeigneten Geschmacksrichtungen finden. Geschäftsessen und private Treffen werden vor dem einzigartigen Blick auf den Bosporus viel aussagekräftiger sein, sagen wir von uns ... Sie können uns einfach über unsere Kommunikationskanäle erreichen, um die Details zu besprechen."
+  },
+  "Anniversary": {
+    "AnniversaryTitle": "Jubiläumsfeiern",
+    "AnniversaryText": "Jubiläen stehen unter den besonderen Tagen an erster Stelle… Es besteht kein Zweifel, dass solche besonderen Tage an den besonderen Orten gefeiert werden sollten. Sind Sie es leid, jedes Jahr Ihre Jubiläen zu Hause, auf einer Dinnerparty oder anderswo zu feiern? Wenn Ihnen langweilig ist, haben wir ein tolles Angebot für Sie! Wie möchten Sie in diesem Jahr diese besonderen Momente auf einem Boot mit dem einzigartigen Blick auf das blaue Wasser feiern? Wenn Sie an die Jubiläumsfeierlichkeiten auf dem Schiff denken, können wir Ihr Herz höher schlagen hören… Worauf warten Sie also noch? Wir möchten Ihnen mitteilen, dass wir nur einen Anruf entfernt sind. So können Sie Ihre Hochzeitsfeier und andere besondere Tage auf die lustigste Art und Weise verbringen, ob allein oder mit Ihrer Gruppe von Freunden. Sie können das Innere unseres Bootes nach Belieben dekorieren, wie es Ihrem besonderen Tag entspricht. An diesem Tag kommt unser Boot zu Ihnen, wie Sie es wünschen, daran haben Sie keinen Zweifel… Wenn Sie traumhafte Momente verbringen und Erinnerungen speichern möchten, um es Ihren Kindern und sogar Ihren Enkeln in Zukunft zu erzählen, können Sie uns sofort erreichen und am schnellsten über unsere Kontaktnummern. Unsere Shopping-Destination für Jubiläumsfeiern liegt auf der anatolischen Seite. Wir möchten sagen, dass wir von der Militärschule Çengelköy Kuleli am Ufer des Bosporus abgegangen sind."
+  },
+  "AboutUsPage": {
+    "PageName": "Uber Uns",
+    "Icon1Title": "Wirtschaftliche Preise",
+    "Icon1Text": "Das Prinzip der kontinuierlichen wirtschaftlichen und qualitativ hochwertigen Dienstleistung ohne Abstriche bei Wettbewerbsfähigkeit und Qualität.",
+    "Icon2Title": "First Class Flotte und Personal",
+    "Icon2Text": "Mit seiner sich entwickelnden und entwickelten Flotte steht es Ihnen immer mit der besten Yachtflotte und den besten Mitarbeitern zur Verfügung.",
+    "Icon3Title": "Kundenzufriedenheit",
+    "Icon3Text": "Das Prinzip der kontinuierlichen wirtschaftlichen und qualitativ hochwertigen Dienstleistung ohne Abstriche bei Wettbewerbsfähigkeit und Qualität.amı sunan çalışanlar.",
+    "AboutSealifeTitle": "Über Sealife",
+    "AboutSealifeText": "Unter dem Motto „immer der beste Service“ hat SeaLife Yachting immer Priorität auf Kundenzufriedenheit und Kundenerfahrung gelegt. Alle Yachtcharter-Aktivitäten werden von unserem Unternehmen durchgeführt, das ein Steuerzahler ist. Wir freuen uns, Sie, unsere geschätzten Gäste, mit unserer großen Yachtflotte zu bedienen, um Ihnen während unserer Touren den Komfort von zu Hause zu bieten. Unsere Firma; Neben Istanbul (Beykoz-Bucht, Prinzeninseln, Poyrazköy 3. Brücke) bietet sie auch Yachtcharter-Dienste in Muğla (Bodrum, Göcek) an. Unsere Yachten; Es steht Ihnen in vielen Bereichen wie Heiratsantrag, Junggesellenabschiede, Reisereisen, Unterkunftsreisen, Geschäftsessen und Reisen, Badetouren zur Verfügung. Für diese Kreuzfahrten haben wir Optionen für Speisen, Heiß- und Kaltgetränke, Unterhaltungsaktivitäten, Laser- und Feuerwerksshows, und wir möchten unseren geschätzten Gästen einen qualitativ hochwertigen Service bieten.",
+    "UpdatedYachtModels": "2020 Modell Neue und aktuelle Yachtmodelle",
+    "CurrentyachtFleetTitle": "Unsere Aktuelle Yachtflotte.",
+    "CurrentyachtFleetText": "Um Ihre Kreuzfahrt und Unterhaltung noch komfortabler zu gestalten, haben wir die herausragenden Merkmale unserer aktuellen Yachtflotte 2020 für Sie zusammengestellt. Alle unsere Yachtmodelle verfügen über die angegebenen Eigenschaften.",
+    "Feature1": "220v Nutzbare Steckdose",
+    "Feature2": "2 WC und Dusche",
+    "Feature3": "Heizen und Kühlen je nach Jahreszeit",
+    "Feature4": "Gratis Heißgetränk in allen Paketen",
+    "Feature5": "Kostenlose WLAN-Hotspot-Einrichtung",
+    "Feature6": "Freundliches Servicepersonal",
+    "Feature7": "Soundsystem",
+    "Feature8": "Beleuchtungssysteme",
+    "Feature9": "TV-System",
+    "SealifeHistoryTitle": "Sealife-Geschichte",
+    "SealifeHistoryText": "Über unser Unternehmen von unserer Gründung bis heute",
+    "2010Title": "SeaLife startet Yachtcharter Service",
+    "2010Text": "Unser Unternehmen, das im maritimen Bereich tätig ist, bietet seinen wertvollen Kunden im Jahr 2010 zum ersten Mal Yachtvermietungsdienste für Firmen an.",
+    "2015Title": "Anfängliches Wachstumsziel",
+    "2015Text": "Sealife Yachting, mit seinen Mitarbeitern, die immer das beste Serviceverständnis im Einklang mit dem steigenden Angebot und der steigenden Nachfrage verfolgen, hat sich zum Ziel gesetzt, seine Yachtflotte im Jahr 2015 zu verdoppeln und seine Flotte zu verbessern.",
+    "2020Title": "Anpassung an sich entwickelnde Technologie",
+    "2020Text": "Sealife Yachting, das 2010 Yachtcharter-Services für Unternehmen anbietet, ist für seine Kunden über neue Kanäle besser zugänglich, indem es mit dem sich entwickelnden Technologiezeitalter Schritt hält und eine Unternehmensweboberfläche und Social-Media-Konten erstellt. Um mit der sich entwickelnden Technologie Schritt zu halten, werden unseren geschätzten Gästen in allen Yachten luxuriöse Dienstleistungen wie Internet, Fernsehen und Strom angeboten, die den heutigen Komfortbedingungen entsprechen."
+  },
+  "BoatSpecifications": {
+    "BoatSpecifications": "Bootsspezifikationen",
+    "BoatType": "Bootstyp",
+    "Motoryacht": "Motoryacht",
+    "Length": "Länge",
+    "Width": "Breite",
+    "NumberofCabin": "Kabinenanzahl",
+    "PassengerCapacity": "Passagierkapazität (täglich)",
+    "Crew": "Besatzung",
+    "Speed": "Geschwindigkeit",
+    "Meter": "meter",
+    "Hour": "Stunde"
+  }
+}

@@ -1,0 +1,40 @@
+@import "../../styles/variables.scss";
+@import "bootstrap/scss/mixins";
+
+.why-sealife-title {
+  font-size: 22px;
+  font-weight: 600;
+  @include media-breakpoint-down(lg) {
+    text-align: left !important;
+  }
+}
+.why-sealife-box {
+  width: 370px;
+  @include media-breakpoint-down(lg) {
+  }
+}
+.why-sealife-box:nth-child(even) {
+  margin-top: 100px;
+  @include media-breakpoint-down(lg) {
+    margin-top: 0px;
+  }
+}
+.why-sealife-img {
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
+}
+.col-third {
+  align-items: flex-start;
+}
+.col-first {
+  align-items: flex-end;
+  @include media-breakpoint-down(lg) {
+    align-items: flex-start;
+  }
+}
+@media screen and (max-width: 375px) {
+  .why-sealife-box {
+    width: 346px !important;
+  }
+}

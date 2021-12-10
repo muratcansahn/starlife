@@ -1,0 +1,41 @@
+@import "bootstrap/scss/mixins";
+
+.yacht-fleet {
+  background-image: url(../../public/images/yacht-fleet-bg.png);
+}
+.locations {
+  background-color: white !important;
+  border-radius: 20px;
+  font-size: 18px;
+  color: rgb(44, 26, 163);
+  font-weight: 700;
+  width: 410px;
+}
+.card {
+  width: 22rem;
+}
+.card-body {
+  p {
+    margin: 0;
+  }
+}
+// .yachts {
+//   padding: 0 100px;
+// }
+.icons {
+  p {
+    font-size: 14px;
+  }
+}
+
+.card-title {
+  font-weight: 700;
+}
+.yachts {
+  margin: 1rem;
+}
+
+.location-buttons {
+  border-radius: 30px;
+  background-color: rgb(255, 255, 255);
+}
