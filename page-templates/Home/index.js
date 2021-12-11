@@ -13,6 +13,7 @@ import Footer from "../../components/Footer";
 import Container from "../../components/Container";
 import WhatsappButton from "../../components/WhatsappButton/WhatsappButton";
 import UpperFooter from "../../components/UpperFooter";
+import HomePageText from "../../components/HomePageText";
 
 export default Home;
 export {
@@ -30,4 +31,5 @@ export {
   WhatsappButton,
   UpperFooter,
   Features,
+  HomePageText,
 };
