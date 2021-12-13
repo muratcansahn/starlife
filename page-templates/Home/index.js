@@ -14,6 +14,7 @@ import Container from "../../components/Container";
 import WhatsappButton from "../../components/WhatsappButton/WhatsappButton";
 import UpperFooter from "../../components/UpperFooter";
 import HomePageText from "../../components/HomePageText";
+import YachtCard from "../../components/YachtCard";
 
 export default Home;
 export {
@@ -32,4 +33,5 @@ export {
   UpperFooter,
   Features,
   HomePageText,
+  YachtCard,
 };

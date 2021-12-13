@@ -1,0 +1,29 @@
+.card {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border: none;
+  color: black;
+}
+.btn-boat {
+  background-color: #050f36 !important;
+  width: fit-content;
+}
+
+.card-img-top {
+  min-height: 50%;
+}
+.card-title {
+  color: black;
+}
+.services-underline:after {
+  content: " ";
+  display: block;
+  color: black;
+  border-top: 2px solid #bc1834;
+  height: 0;
+  width: auto;
+  min-width: 40px;
+
+  bottom: 0.1em;
+  margin-left: 25%;
+  margin-right: 25%;
+}

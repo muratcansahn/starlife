@@ -14,6 +14,7 @@ import {
   WhatsappButton,
   Features,
   HomePageText,
+  YachtCard,
 } from ".";
 
 const Home = () => {
@@ -26,9 +27,7 @@ const Home = () => {
       <Banner />
       <Features />
       <HomePageText />
-      <YachtFleet />
-      <SealifeOnSocialMedia />
-      <UpperFooter />
+      <YachtCard />
       <Footer />
     </main>
   );
