@@ -21,10 +21,9 @@ const YachtCard = () => {
             </div>
 
             <div class="card-body mx-auto ">
-              <h5 class="card-title py-2 text-center ">YACHT-1</h5>
-              <hr class="services-underline mb-2" />
+              <h5 class="card-title py-1 text-center ">YACHT-1</h5>
 
-              <div class="boat-card py-3 d-flex justify-content-between  ">
+              <div class="boat-card py-2 d-flex justify-content-between  ">
                 <div class="icon-card px-2 d-flex align-items-center">
                   <FaRulerVertical size="24px" />{" "}
                   <p class="boat-icon-text my-auto mx-1">16m</p>
@@ -42,6 +41,11 @@ const YachtCard = () => {
                   <p class="boat-icon-text my-auto mx-1">20 kn/s</p>
                 </div>
               </div>
+              <p className="boatcard-text">
+                Siyah renge sahip yatımız bu özelliği ile İstanbul Boğazı'nda
+                ilk ve tek olma özelliği taşımaktadır.15 kişiye kadar yat
+                kiralama hizmeti verilmektedir.
+              </p>
               <a
                 href="./Yachts/3/index.html"
                 class="btn btn-boat d-flex justify-content-center mx-auto align-items-center text-white mt-3"

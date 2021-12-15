@@ -6,6 +6,7 @@
   @include media-breakpoint-down(lg) {
     font-size: 15px;
   }
+  margin-top: 80px;
 }
 .underline {
   width: 430px;
@@ -20,7 +21,8 @@
 
 .contact-row {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
+  justify-content: center;
   margin-left: 48px;
   margin-right: 48px;
   @include media-breakpoint-down(lg) {
