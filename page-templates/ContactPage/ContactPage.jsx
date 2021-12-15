@@ -14,10 +14,8 @@ const ContactPage = () => {
   return (
     <>
       <div className="container">
-        <Container>
-          <WhatsappButton /> <Contact />
-          <Header />
-        </Container>
+        <WhatsappButton />
+        <Header />
         <div className="contact-icons py-5">
           <div className="contact-row  ">
             <div className="">

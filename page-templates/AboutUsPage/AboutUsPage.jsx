@@ -23,11 +23,9 @@ const AboutUsPage = () => {
 
   return (
     <main>
-      <Container>
-        <WhatsappButton />
-        <Contact />
-        <Header />
-      </Container>
+      <WhatsappButton />
+      <Header />
+
       <div className="margin-top">
         {" "}
         <PageLogo pagename={t("PageName")} />

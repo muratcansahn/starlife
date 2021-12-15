@@ -20,10 +20,8 @@ import {
 const Home = () => {
   return (
     <main className="">
-      <Container>
-        <WhatsappButton />
-        <Header />
-      </Container>
+      <WhatsappButton />
+      <Header />
       <Banner />
       <Features />
       <HomePageText />
