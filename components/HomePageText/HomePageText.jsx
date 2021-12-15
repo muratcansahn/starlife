@@ -14,15 +14,15 @@ const HomePageText = () => {
         />
       </div>
       <p className="homepage-text">
-        Starlife Yat Kiralama olarak kendimize en iyi hizmet kalitesi,güler
-        yüzlü servis ve müşteri memnuniyeti ilkelerini benimsemiş olup lüks ve
-        ferah yatlarımız ile bunun için çalışmaktayız. Sizlerde
-        kapasite,renk,model gibi farklı özelliklere sahip yatlarımızdan
-        kendinize uygun olanı seçip özel günlerinizi unutulmaz bir deneyim ile
-        taçlandırıp,güzel anılarınıza bir yenisini daha ekleyebilirsiniz.
+        Yıllar boyu süre gelen birçok imparatorluğa ev sahipliği yapmış iki
+        kıtayı birbirine kavuşturan yedi tepeli İstanbul’un doğal güzelliklerini
+        bizlerle birlikte deniz üzerinden Güvenli, Konforlu ve Lüks
+        Motoryatlarımız ile gezmek ister misiniz? Sizlerde boğaz köprüsünün
+        üstünden geçtim altından geçemedim diyenlerdenseniz! Sizleri İstanbul
+        boğazının eşsiz manzarasını yaşamaya davet ediyoruz.
         <br />
         Kalmalı ya da Günübirlik turlarımızla siz değerli misafirlerimizi
-        ağırlamakdan onur duyarız.
+        ağırlamaktan onur duyarız.
       </p>
     </div>
   );

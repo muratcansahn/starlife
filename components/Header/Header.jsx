@@ -48,7 +48,10 @@ const Header = () => {
           </li>
           <li className="dropdown">
             <div>
-              <strong> {t("services")}</strong>
+              <Link href="/hizmetlerimiz">
+                <strong> {t("services")}</strong>
+              </Link>
+
               <div className="dropdown-content pt-3 ">
                 {servicesSubMenuItems.map((item) => (
                   <Link key={item.title} href={item.href}>
@@ -78,6 +81,7 @@ const Header = () => {
         </span>{" "}
       </div>
       <MobileNavbar
+        className="mobile-navbar"
         sidenav={` sidenav ${state ? "left-100" : "left-0"} pt-2`}
         closeBtn={toogle}
         ul={
@@ -90,7 +94,9 @@ const Header = () => {
             </li>
             <li className="dropdown">
               <div className="services ">
-                {t("services")}
+                <Link href="/hizmetlerimiz">
+                  <strong> {t("services")}</strong>
+                </Link>
                 <div className=" pt-3 ">
                   {servicesSubMenuItems.map((item) => (
                     <Link key={item.title} href={item.href}>

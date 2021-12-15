@@ -44,6 +44,7 @@ import "../components/Container/Container.scss";
 import "../components/Features/Features.scss";
 import "../components/HomePageText/HomePageText.scss";
 import "../components/YachtCard/YachtCard.scss";
+import "../components/MobileNavbar/MobileNavbar.scss";
 
 function MyApp({ Component, pageProps }) {
   const [loading, setLoading] = useState(false);

@@ -16,7 +16,6 @@ import {
   WhatsappButton,
 } from ".";
 import Events from "../../components/Events";
-import aboutusBoat from "../../public/images/about-us/1.jpeg";
 
 const AboutUsPage = () => {
   const [date, setDate] = useState("2010");
@@ -86,9 +85,7 @@ const AboutUsPage = () => {
         <div
           className="carousel-aboutus d-flex justify-content-center
         "
-        >
-          <Image className=" " src={aboutusBoat} alt="Picture of the author" />
-        </div>
+        ></div>
         <div className="mobile-images">
           <img
             className="img-fluid my-3 ml-1"
