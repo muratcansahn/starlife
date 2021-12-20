@@ -25,7 +25,8 @@ const Home = () => {
       <Banner />
       <Features />
       <HomePageText />
-      <YachtCard />
+      <YachtFleet />
+
       <Footer />
     </main>
   );

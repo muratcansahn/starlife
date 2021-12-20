@@ -4,58 +4,59 @@ import { GiKnifeFork } from "react-icons/gi";
 import { HiUsers } from "react-icons/hi";
 import { BsSpeedometer2 } from "react-icons/bs";
 
-const YachtCard = () => {
+const YachtCard = ({
+  boatimg,
+  boatDescription,
+  boatid,
+  boatheight,
+  boatcapacity,
+  boatfood,
+}) => {
   return (
-    <div>
-      <div class="row mx-2">
-        <div class="col-md d-flex justify-content-center my-5 ">
-          <div class="card ">
-            <div className="card-top">
-              <Image
-                src="/images/alfa.jpg"
-                className=""
-                alt="..."
-                height="210px"
-                width="355px"
-              />
-            </div>
+    <div class="">
+      <div class=" mx-2 d-flex justify-content-center my-5 ">
+        <div class="card ">
+          <div className="card-top">
+            <Image
+              src={boatimg}
+              className=""
+              alt="..."
+              height="210px"
+              width="355px"
+            />
+          </div>
 
-            <div class="card-body mx-auto ">
-              <h5 class="card-title py-1 text-center ">YACHT-1</h5>
+          <div class="card-body ">
+            <h5 class="card-title py-1 text-center ">YACHT-{boatid}</h5>
 
-              <div class="boat-card py-2 d-flex justify-content-between  ">
-                <div class="icon-card px-2 d-flex align-items-center">
-                  <FaRulerVertical size="24px" />{" "}
-                  <p class="boat-icon-text my-auto mx-1">16m</p>
-                </div>
-                <div class="icon-card px-2 d-flex align-items-center">
-                  <HiUsers size="24px" />
-                  <p class="boat-icon-text my-auto mx-1">12</p>
-                </div>
-                <div class="icon-card px-2 d-flex align-items-center">
-                  <GiKnifeFork size="24px" />{" "}
-                  <p class="boat-icon-text my-auto mx-1">2</p>
-                </div>
-                <div class="icon-card px-2 d-flex align-items-center">
-                  <BsSpeedometer2 size="24px" />{" "}
-                  <p class="boat-icon-text my-auto mx-1">20 kn/s</p>
-                </div>
+            <div class="boat-card py-2 d-flex justify-content-between  ">
+              <div class="icon-card px-2 d-flex align-items-center">
+                <FaRulerVertical size="24px" />{" "}
+                <p class="boat-icon-text my-auto mx-1">{boatheight} </p>
               </div>
-              <p className="boatcard-text">
-                Siyah renge sahip yatımız bu özelliği ile İstanbul Boğazı'nda
-                ilk ve tek olma özelliği taşımaktadır.15 kişiye kadar yat
-                kiralama hizmeti verilmektedir.
-              </p>
-              <a
-                href="./Yachts/3/index.html"
-                class="btn btn-boat d-flex justify-content-center mx-auto align-items-center text-white mt-3"
-              >
-                Hemen incele
-              </a>
+              <div class="icon-card px-2 d-flex align-items-center">
+                <HiUsers size="24px" />
+                <p class="boat-icon-text my-auto mx-1">{boatcapacity} </p>
+              </div>
+              <div class="icon-card px-2 d-flex align-items-center">
+                <GiKnifeFork size="24px" />{" "}
+                <p class="boat-icon-text my-auto mx-1">{boatfood} </p>
+              </div>
+              <div class="icon-card px-2 d-flex align-items-center">
+                <BsSpeedometer2 size="24px" />{" "}
+                <p class="boat-icon-text my-auto mx-1">20 kn/s</p>
+              </div>
             </div>
+            <p className="mt-2">{boatDescription}</p>
+            <a
+              href="./Yachts/3/index.html"
+              class="btn btn-boat text-white position-absolute  start-50 translate-middle-x "
+            >
+              Hemen incele
+            </a>
           </div>
         </div>
-      </div>{" "}
+      </div>
     </div>
   );
 };

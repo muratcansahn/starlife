@@ -3,6 +3,7 @@
   border: none;
   color: black;
   border-radius: 10px;
+  height: 530px;
 }
 .btn-boat {
   background-color: #050f36 !important;
@@ -28,4 +29,8 @@
 .card-body {
   padding-top: 8px;
   padding-bottom: 8px;
+  position: relative;
+}
+.btn-boat {
+  bottom: 20px;
 }
