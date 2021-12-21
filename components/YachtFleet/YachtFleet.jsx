@@ -10,10 +10,10 @@ const YachtFleet = () => {
   return (
     <div>
       <div className="text-center">
-        <div className="  py-2 px-4  border d-inline-block location-buttons">
+        <div className="  py-2 px-3  border d-inline-block location-buttons">
           <button
-            className={`btn py-1 px-3 font-18 font-700  btn-sm ${
-              yachtModel === "motoryacht" ? " bg-light" : ""
+            className={`btn py-1 px-1 font-18 font-700  btn-sm ${
+              yachtModel === "motoryacht" ? " text-primary" : ""
             }`}
             onClick={() => setYachtModel("motoryacht")}
           >

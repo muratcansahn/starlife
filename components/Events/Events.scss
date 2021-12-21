@@ -11,19 +11,22 @@
   padding-bottom: 15px;
 }
 .events-img {
-  height: 330px;
   width: 430px;
   @include media-breakpoint-down(md) {
-    width: 370px;
+    width: 350px;
   }
 }
 .events-title {
   font-size: 22px;
   font-weight: 700;
-  padding-bottom: 35px;
+  padding-bottom: 25px;
+  text-align: center;
+  @include media-breakpoint-down(md) {
+    text-align: left;
+  }
 }
 .events-textbox {
-  width: 405px;
+  width: 705px;
   line-height: 24px;
   @include media-breakpoint-down(md) {
     width: 360px;

@@ -62,7 +62,9 @@ html {
 }
 .story-image {
   border-radius: 50%;
-  border: 2px solid #ffffff;
+  border: 2px solid #ff0000 !important;
+  background-color: #fff;
+  padding: 2px !important;
 }
 .story-text {
   font-size: 12px;
