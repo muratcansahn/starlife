@@ -39,7 +39,7 @@ const YachtFleet = () => {
                 boatimg={boat.CardImage}
                 boatname={boat.Name}
                 boatDescription={boat.description}
-                url={boat.url}
+                url={boat.id}
                 boatid={boat.id}
                 boatfood={boat.food}
                 boatheight={boat.height}

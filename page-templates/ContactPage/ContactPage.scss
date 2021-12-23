@@ -34,3 +34,12 @@
     }
   }
 }
+iframe {
+  height: 600px;
+  width: 1100px;
+  display: flex;
+  @include media-breakpoint-down(lg) {
+    height: 300px;
+    width: 360px;
+  }
+}

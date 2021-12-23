@@ -17,7 +17,7 @@ const ContactPage = () => {
         <WhatsappButton />
         <Header />
         <div className="contact-icons py-5">
-          <div className="contact-row  ">
+          <div className="contact-row   ">
             <div className="">
               <h2 className="my-4 text-center"> İletişim Bilgilerimiz</h2>
               <hr className="underline" />
@@ -40,14 +40,13 @@ const ContactPage = () => {
               </div>
             </div>
           </div>
-          <div className="contact-social-media-icons">
-            <Link href="https://www.instagram.com/starlife_yatkiralama/">
-              <a target="_blank">
-                <BsInstagram size="24px" color="white" />
-              </a>
-            </Link>
-          </div>
         </div>
+        <iframe
+          className="mx-auto"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3007.52583297281!2d29.045763415253774!3d41.07935627929359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cab61db8e6c3f7%3A0x8259139cb06914f3!2zQmViZWssIENldmRldCBQYcWfYSBDZC4sIDM0MzQyIEJlxZ9pa3RhxZ8vxLBzdGFuYnVs!5e0!3m2!1sen!2str!4v1640265651668!5m2!1sen!2str"
+          allowfullscreen=""
+          loading="lazy"
+        ></iframe>
       </div>
       <Footer />
     </>

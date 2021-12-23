@@ -18,7 +18,7 @@ const hizmetlerimiz = () => {
       <div className="container">
         <Header />
 
-        <div className="stories d-flex  mx-auto">
+        <div className="stories mx-auto">
           <div className="story ">
             <Image
               src="/images/story-icons/bachelorette.png"
@@ -82,6 +82,27 @@ const hizmetlerimiz = () => {
           title={"Bekarlığa Veda "}
           text={
             "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin."
+          }
+        />
+        <Events
+          img={"/images/hizmetlerimiz/anniversary/2.jpg"}
+          title={"Boğaz Turu"}
+          text={
+            "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz"
+          }
+        />
+        <Events
+          img={"/images/hizmetlerimiz/birthday/1.jpg"}
+          title={"Doğum Günü "}
+          text={
+            "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz."
+          }
+        />
+        <Events
+          img={"/images/hizmetlerimiz/business-dinner/1.jpg"}
+          title={"İş Yemeği"}
+          text={
+            "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz"
           }
         />
       </div>

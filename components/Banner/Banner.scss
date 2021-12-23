@@ -3,9 +3,9 @@
 
 .banner {
   position: relative;
-  margin-top: 185px;
+  margin-top: 25px;
   @include media-breakpoint-down(lg) {
-    margin-top: 60px;
+    margin-top: 10px;
   }
 }
 

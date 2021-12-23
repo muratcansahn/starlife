@@ -1,4 +1,5 @@
 import BoatPage from "../../page-templates/BoatPage";
+
 export function getStaticProps({ locale }) {
   "Current Locale", locale;
   return {
@@ -8,6 +9,6 @@ export function getStaticProps({ locale }) {
   };
 }
 
-const AtaBora = () => <BoatPage boatUrl="ata-bora" />;
+const yacht15 = () => <BoatPage boatUrl="yacht15" />;
 
-export default AtaBora;
+export default yacht15;

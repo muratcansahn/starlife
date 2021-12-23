@@ -49,7 +49,7 @@ const YachtCard = ({
             </div>
             <p className="mt-2">{boatDescription}</p>
             <a
-              href="./Yachts/3/index.html"
+              href={`./tekneler/yacht${boatid}`}
               class="btn btn-boat text-white position-absolute  start-50 translate-middle-x "
             >
               Hemen incele

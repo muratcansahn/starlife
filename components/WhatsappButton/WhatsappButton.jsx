@@ -5,6 +5,8 @@ import { BsWhatsapp } from "react-icons/bs";
 
 const WhatsappButton = ({ boatname }) => {
   const t = useTranslations("Header");
+  console.log(boatname);
+
   return (
     <div className="whatsapp-chat d-flex   align-items-center">
       <Link
