@@ -20,12 +20,31 @@
     "title": "Sealife Yacht Rental",
     "description": ""
   },
-  "Contact": {
-    "title": "Contact | Sealife Yacht Rental",
-    "description": "Sealife Contact Channels",
-    "pageName": "Contact",
-    "location": "Location"
+  "Features": {
+    "UniqueExperienceTitle": "Unique Experience",
+    "UniqueExperienceText": "In this unique experience you will have with our yachts, you can enjoy the freedom in the eye-catching blue of the sea.",
+    "SpecialEventsTitle": "Special Events",
+    "SpecialEventsText": "Marriage proposal, Birthday, Bachelorette, Dinner, Wedding, Engagement, Bosphorus tour opportunities",
+    "SmileServicesTitle": "Friendly Service",
+    "SmileServicesText": "We are always at your service for you, our valued guests, to spend quality and comfortable time."
   },
+  "HomePageText": {
+    "HomePageText1": "It has been home to many empires over the years.Enjoy the natural beauties of Istanbul with seven hills that unite the continent.Safe, Comfortable and Luxury over the sea with us   Would you like to travel with our motor yachts? You also have the Bosphorus Bridge.If you are one of those who say that I passed over it and could not pass under it! You in Istanbul We invite you to experience the unique view of the Bosphorus.",
+    "HomePageText2": " We are honored to welcome you, our valued guests, with our Stay or Daily tours."
+  },
+  "Services": {
+    "AnniversaryTitle": "Anniversary Celebrations",
+    "BacheloretteTitle": "Bachelorette Party",
+    "BacheloretteText": "Would you like to end your singleness with a perfect party in your last days before marriage! Organize an unforgettable party with our organizations with every detail considered.",
+    "BosphorusTourTitle": "Bosphorus Tour",
+    "BosphorusTourText": "You can discover the unique beauties of the Bosphorus with our boats.",
+    "BirthdayTitle": "Birthday celebrations",
+    "BirthdayText": "If you want, you can have a romantic birthday alone with your loved one or you can have a birthday party on the yacht with your crowded group.",
+    "BusinessDinnerTitle": "Business Dinner",
+    "BusinessDinnerText": "You can organize your business lunches on our boats, which are more intimate places compared to offices.",
+    "MarriageProposalTitle": "Marriage Proposa "
+  },
+
   "AboutUs": {
     "title": "About Us | Sealife Yacht Rental",
     "description": "We are happy to serve you, our esteemed guests, with our large fleet of yachts, in order to provide you with the comfort of home during our tours."
@@ -42,8 +61,8 @@
     "Col3": "Pay and rent. That's it!"
   },
   "YachtFleet": {
-    "YachtFleetTitle": "Our Yacht Fleet",
-    "YachtFleetText": "You can examine our yacht fleet where you will be welcomed in the best way,You can rent a yacht to have a better time."
+    "motoryachts": "Motor Yachts",
+    "invitationBoats": "Invitation Boats"
   },
   "BoatIcons": {
     "Icon1": "Hot Drink Service",

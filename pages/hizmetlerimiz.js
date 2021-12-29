@@ -1,4 +1,5 @@
 import { useTranslations } from "next-intl";
+import { useRouter } from "next/router";
 import Head from "next/head";
 
 import Header from "../components/Header";
@@ -7,6 +8,9 @@ import Events from "../components/Events";
 import Image from "next/image";
 
 const hizmetlerimiz = () => {
+  //Localization
+  const router = useRouter();
+  const t = useTranslations("Services");
   return (
     <>
       <Head>
@@ -28,7 +32,7 @@ const hizmetlerimiz = () => {
               width={50}
             />
 
-            <p className="story-text text-center"> Bekarlığa Veda</p>
+            <p className="story-text text-center"> {t("BacheloretteTitle")}</p>
           </div>
 
           <div className="story ">
@@ -40,7 +44,7 @@ const hizmetlerimiz = () => {
               width={50}
             />
 
-            <p className="story-text text-center"> Doğum Günü</p>
+            <p className="story-text text-center"> {t("BirthdayTitle")}</p>
           </div>
           <div className="story ">
             <Image
@@ -51,7 +55,7 @@ const hizmetlerimiz = () => {
               width={50}
             />
 
-            <p className="story-text text-center"> İş Yemeği</p>
+            <p className="story-text text-center">{t("BusinessDinnerTitle")}</p>
           </div>
           <div className="story ">
             <Image
@@ -62,7 +66,9 @@ const hizmetlerimiz = () => {
               width={50}
             />
 
-            <p className="story-text text-center ">Evlilik Teklifi</p>
+            <p className="story-text text-center ">
+              {t("MarriageProposalTitle")}
+            </p>
           </div>
           <div className="story ">
             <Image
@@ -73,37 +79,29 @@ const hizmetlerimiz = () => {
               width={50}
             />
 
-            <p className="story-text text-center">Yıldönümü Kutlamaları</p>
+            <p className="story-text text-center"> {t("AnniversaryTitle")}</p>
           </div>
         </div>
 
         <Events
           img={"/images/hizmetlerimiz/bachelorette/4.jpg"}
-          title={"Bekarlığa Veda "}
-          text={
-            "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin."
-          }
+          title={t("BacheloretteTitle")}
+          text={t("BacheloretteText")}
         />
         <Events
           img={"/images/hizmetlerimiz/anniversary/2.jpg"}
-          title={"Boğaz Turu"}
-          text={
-            "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz"
-          }
+          title={t("BosphorusTourTitle")}
+          text={t("BosphorusTourText")}
         />
         <Events
           img={"/images/hizmetlerimiz/birthday/1.jpg"}
-          title={"Doğum Günü "}
-          text={
-            "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz."
-          }
+          title={t("BirthdayTitle")}
+          text={t("BirthdayText")}
         />
         <Events
           img={"/images/hizmetlerimiz/business-dinner/1.jpg"}
-          title={"İş Yemeği"}
-          text={
-            "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz"
-          }
+          title={t("BusinessDinnerTitle")}
+          text={t("BusinessDinnerText")}
         />
       </div>
       <Footer />

@@ -1,28 +1,27 @@
 import Image from "next/image";
+import { useRouter } from "next/router";
+import { useTranslations } from "next-intl";
 
 const HomePageText = () => {
+  //Localization
+  const router = useRouter();
+  const t = useTranslations("HomePageText");
   return (
-    <div className="text-center">
+    <div className="text-center my-4">
       <div className="homepage-logo">
         {" "}
         <Image
-          className=" "
-          src={"/images/sealife-yacht.jpg"}
+          className="neva-logo"
+          src={"/images/neva-logo.png"}
           alt="Yachtlogo"
-          height="210px"
+          height="320px"
           width="320px"
         />
       </div>
-      <p className="homepage-text">
-        Yıllar boyu süre gelen birçok imparatorluğa ev sahipliği yapmış iki
-        kıtayı birbirine kavuşturan yedi tepeli İstanbul’un doğal güzelliklerini
-        bizlerle birlikte deniz üzerinden Güvenli, Konforlu ve Lüks
-        Motoryatlarımız ile gezmek ister misiniz? Sizlerde boğaz köprüsünün
-        üstünden geçtim altından geçemedim diyenlerdenseniz! Sizleri İstanbul
-        boğazının eşsiz manzarasını yaşamaya davet ediyoruz.
+      <p className="homepage-text my-4 mx-3">
+        {t("HomePageText1")}
         <br />
-        Kalmalı ya da Günübirlik turlarımızla siz değerli misafirlerimizi
-        ağırlamaktan onur duyarız.
+        {t("HomePageText2")}
       </p>
     </div>
   );

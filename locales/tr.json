@@ -19,12 +19,32 @@
     "title": "Sealife Yat Kiralama",
     "description": ""
   },
-  "Contact": {
-    "title": "İletişim | Sealife Yat Kiralama",
-    "description": "SeaLife Yat Kiralama İletişim kanallarımız...",
-    "pageName": "İletişim",
-    "location": "Lokasyon"
+  "Features": {
+    "UniqueExperienceTitle": "Eşsiz bir Deneyim ",
+    "UniqueExperienceText": "Yatlarımız ile yaşayacağınız bu eşsiz deneyimde denizin göz alıcı maviliklerinde özgürlüğün tadını çıkarabilirsiniz.",
+    "SpecialEventsTitle": "Özel Etkinlikler ",
+    "SpecialEventsText": "Evlilik teklifi,Doğum günü,Bekarlığa veda ,Akşam Yemeği,Düğün,Nişan ,Boğaz turu fırsatları",
+    "SmileServicesTitle": "Güler Yüzlü Hizmet    ",
+    "SmileServicesText": "Siz değerli misafirlerimizin kaliteli ve konforlu zaman geçirmesi için daima hizmetinizdeyiz.   "
   },
+  "HomePageText": {
+    "HomePageText1": "Yıllar boyu süre gelen birçok imparatorluğa ev sahipliği yapmış iki    kıtayı birbirine kavuşturan yedi tepeli İstanbul’un doğal güzelliklerini     bizlerle birlikte deniz üzerinden Güvenli, Konforlu ve Lüks Motoryatlarımız ile gezmek ister misiniz? Sizlerde boğaz köprüsünün üstünden geçtim altından geçemedim diyenlerdenseniz! Sizleri İstanbul  boğazının eşsiz manzarasını yaşamaya davet ediyoruz.",
+    "HomePageText2": " Kalmalı ya da Günübirlik turlarımızla siz değerli misafirlerimizi ağırlamaktan onur duyarız."
+  },
+
+  "Services": {
+    "AnniversaryTitle": "Yıl Dönümü Kutlamaları",
+    "BacheloretteTitle": "Bekarlığa Veda Partisi   ",
+    "BacheloretteText": "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin.    ",
+    "BosphorusTourTitle": "Boğaz Turu    ",
+    "BosphorusTourText": "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz  ",
+    "BirthdayTitle": "Doğum Günü Kutlaması    ",
+    "BirthdayText": "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz.    ",
+    "BusinessDinnerTitle": "İş Yemeği ",
+    "BusinessDinnerText": "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz",
+    "MarriageProposalTitle": "Evlilik Teklifi "
+  },
+
   "AboutUs": {
     "title": "Hakkımızda | Sealife Yat Kiralama",
     "description": "Siz değerli konuklarımıza seyir boyunca turlarımızda ev konforunu yaşatmak için geniş yat filomuz ile hizmet vermekten mutluluk duyarız. "
@@ -41,8 +61,9 @@
     "Col3": "Ödeme yap ve kirala.Hepsi bu!"
   },
   "YachtFleet": {
-    "YachtFleetTitle": "Yat Filomuz",
-    "YachtFleetText": "Sizlerin en iyi şekilde ağırlanacağı yat filomuzu buradan inceleyebilir, daha güzel vakit geçirmek için yat kiralayabilirsiniz."
+    "motoryachts": "Motoryatlar",
+    "invitationBoats": "Davet Tekneleri",
+    "yacht1": "lorem asjdbjasbdhjbs"
   },
   "BoatIcons": {
     "Icon1": "Sıcak İçecek İkramı",
@@ -175,6 +196,5 @@
     "Speed": "Sürat",
     "Meter": "metre",
     "Hour": "Saat"
-  },
-  "Services": {}
+  }
 }

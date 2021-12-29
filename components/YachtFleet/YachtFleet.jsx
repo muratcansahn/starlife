@@ -1,8 +1,12 @@
 import { useState } from "react";
 import YachtCard from "../YachtCard";
 import { BoatData } from "../../utils/boats";
+import { useRouter } from "next/router";
+import { useTranslations } from "next-intl";
 
 const YachtFleet = () => {
+  const router = useRouter();
+  const t = useTranslations("YachtFleet");
   const [location, setLocation] = useState("İstanbul");
   const [yachtModel, setYachtModel] = useState("motoryacht");
   const Boats = BoatData.filter((boat) => boat.type === yachtModel);
@@ -17,7 +21,7 @@ const YachtFleet = () => {
             }`}
             onClick={() => setYachtModel("motoryacht")}
           >
-            Motoryatlar
+            {t("motoryachts")}
           </button>
           <span className="mx-1 ">|</span>
           <button
@@ -26,7 +30,7 @@ const YachtFleet = () => {
             }`}
             onClick={() => setYachtModel("invite-yacht")}
           >
-            Davet Tekneleri
+            {t("invitationBoats")}{" "}
           </button>
         </div>
       </div>
@@ -38,7 +42,7 @@ const YachtFleet = () => {
                 key={i}
                 boatimg={boat.CardImage}
                 boatname={boat.Name}
-                boatDescription={boat.description}
+                boatDescription={t(`yacht${boat.id}`)}
                 url={boat.id}
                 boatid={boat.id}
                 boatfood={boat.food}

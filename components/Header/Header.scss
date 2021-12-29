@@ -7,6 +7,7 @@
 
     li {
       list-style-type: none;
+      background-color: black;
 
       a {
         font-size: 16px;
@@ -41,10 +42,11 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #000000;
   min-width: 260px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
+  border-radius: 10px;
 }
 .dropdown-content a {
   font-family: "Lato", serif;
@@ -69,6 +71,7 @@
 }
 .text-active {
   color: $primary;
+  text-decoration: none;
 }
 .menu {
   display: flex;
@@ -113,18 +116,6 @@
   border-top: 3px double rgb(255 255 255 / 30%);
 }
 
-.logo {
-  img {
-    @include media-breakpoint-down(lg) {
-      height: 45px;
-      width: 160px;
-    }
-    @include media-breakpoint-down(sm) {
-      height: 45px;
-      width: 150px !important;
-    }
-  }
-}
 .sidebar-bottom {
   margin-top: 50px;
 }
@@ -141,4 +132,12 @@
 }
 .left-0 {
   margin-left: 0;
+}
+.brand {
+  margin-bottom: 0;
+  color: white;
+  font-size: larger;
+}
+.tooglebtn {
+  color: white !important;
 }

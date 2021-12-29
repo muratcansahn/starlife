@@ -179,7 +179,7 @@ const AboutUsPage = () => {
           </div>
         </div>
       </div>
-      <div className="sealife-history">
+      {/* <div className="sealife-history">
         <ComponentHeader
           title={t("SealifeHistoryTitle")}
           text={t("SealifeHistoryText")}
@@ -236,7 +236,7 @@ const AboutUsPage = () => {
             text={t("2020Text")}
           />
         )}
-      </div>
+      </div> */}
       <Footer />
     </main>
   );

@@ -8,7 +8,6 @@ import YachtRentServices from "../../components/YachtRentServices";
 import YachtFleet from "../../components/YachtFleet/";
 import Policy from "../../components/Policy";
 import WhySealife from "../../components/WhySealife";
-import SealifeOnSocialMedia from "../../components/SealifeOnSocialMedia";
 import Footer from "../../components/Footer";
 import Container from "../../components/Container";
 import WhatsappButton from "../../components/WhatsappButton/WhatsappButton";
@@ -26,7 +25,6 @@ export {
   Policy,
   BannerDown,
   WhySealife,
-  SealifeOnSocialMedia,
   Footer,
   Container,
   WhatsappButton,

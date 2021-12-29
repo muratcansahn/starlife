@@ -29,12 +29,13 @@ const Header = () => {
   };
   return (
     <div className="main-navbar d-flex justify-content-between ">
-      <div className="brand my-2">
+      <div className="">
         <div className="logo mr-2">
           <Link href="/">
-            <a className="text-active mx-4">
+            <a className="text-active d-flex mx-1 align-items-end">
               {" "}
-              <Image src="/images/sealife-logo.png" width={250} height={70} />
+              <Image src="/images/logo-main.jpg" width={90} height={70} />
+              <p className="brand">Neva Yacht's</p>
             </a>
           </Link>
         </div>
@@ -76,7 +77,7 @@ const Header = () => {
         <div className="mobile-lang-switcher mt-2">
           <LangSwitcher onChangeLanguage={onChangeLanguage} />
         </div>
-        <span className="mx-4" onClick={toogle}>
+        <span className="mx-4 tooglebtn" onClick={toogle}>
           &#9776;
         </span>{" "}
       </div>
@@ -97,7 +98,7 @@ const Header = () => {
                 <Link href="/hizmetlerimiz">
                   <strong> {t("services")}</strong>
                 </Link>
-                <div className=" pt-3 ">
+                <div className=" pt-3 services-submenu">
                   {servicesSubMenuItems.map((item) => (
                     <Link key={item.title} href={item.href}>
                       <a>{t(`${item.title}`)}</a>

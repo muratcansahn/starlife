@@ -31,7 +31,6 @@ import "../components/YachtFleet/YachtFleet.scss";
 import "../components/Policy/Policy.scss";
 import "../components/ComponentHeader/ComponentHeader.scss";
 import "../components/WhySealife/WhySealife.scss";
-import "../components/SealifeOnSocialMedia/SealifeOnSocialMedia.scss";
 import "../components/Events/Events.scss";
 import "../components/UpperFooter/UpperFooter.scss";
 import "../components/Footer/Footer.scss";
