@@ -1,11 +1,12 @@
 import { useTranslations } from "next-intl";
 import { useRouter } from "next/router";
 import Head from "next/head";
+import Link from "next/link";
+import Image from "next/image";
 
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Events from "../components/Events";
-import Image from "next/image";
 
 const hizmetlerimiz = () => {
   //Localization
@@ -22,30 +23,36 @@ const hizmetlerimiz = () => {
       <div className="container">
         <Header />
 
-        <div className="stories mx-auto">
-          <div className="story ">
-            <Image
-              src="/images/story-icons/bachelorette.png"
-              className="story-image "
-              alt=""
-              height={50}
-              width={50}
-            />
+        <div className="stories mx-auto my-4">
+          <Link href="hizmetlerimiz/bekarliga-veda-partisi">
+            <div className="story ">
+              <Image
+                src="/images/story-icons/bachelorette.png"
+                className="story-image "
+                alt=""
+                height={50}
+                width={50}
+              />
 
-            <p className="story-text text-center"> {t("BacheloretteTitle")}</p>
-          </div>
+              <p className="story-text text-center">
+                {" "}
+                {t("BacheloretteTitle")}
+              </p>
+            </div>
+          </Link>
+          <Link href="hizmetlerimiz/bekarliga-veda-partisi">
+            <div className="story ">
+              <Image
+                src="/images/story-icons/birthday.png"
+                className="story-image "
+                alt=""
+                height={50}
+                width={50}
+              />
 
-          <div className="story ">
-            <Image
-              src="/images/story-icons/birthday.png"
-              className="story-image "
-              alt=""
-              height={50}
-              width={50}
-            />
-
-            <p className="story-text text-center"> {t("BirthdayTitle")}</p>
-          </div>
+              <p className="story-text text-center"> {t("BirthdayTitle")}</p>
+            </div>
+          </Link>
           <div className="story ">
             <Image
               src="/images/story-icons/business-dinner.png"
@@ -82,12 +89,13 @@ const hizmetlerimiz = () => {
             <p className="story-text text-center"> {t("AnniversaryTitle")}</p>
           </div>
         </div>
-
-        <Events
-          img={"/images/hizmetlerimiz/bachelorette/4.jpg"}
-          title={t("BacheloretteTitle")}
-          text={t("BacheloretteText")}
-        />
+        <Link href="hizmetlerimiz/bekarliga-veda-partisi">
+          <Events
+            img={"/images/hizmetlerimiz/bachelorette/4.jpg"}
+            title={t("BacheloretteTitle")}
+            text={t("BacheloretteText")}
+          />
+        </Link>
         <Events
           img={"/images/hizmetlerimiz/anniversary/2.jpg"}
           title={t("BosphorusTourTitle")}

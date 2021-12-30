@@ -48,6 +48,7 @@ const YachtFleet = () => {
                 boatfood={boat.food}
                 boatheight={boat.height}
                 boatcapacity={boat.capacity}
+                reviewbtn={t("reviewbtn")}
               />
             </div>
           );

@@ -15,8 +15,6 @@ const Banner = ({ lang }) => {
               alt="First slide"
             />{" "}
           </div>
-
-          <p className="banner-title">{t("FirstText")}</p>
         </Carousel.Item>
         {/* <Carousel.Item>
           <div className="banner-images">

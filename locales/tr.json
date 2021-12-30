@@ -36,6 +36,7 @@
     "AnniversaryTitle": "Yıl Dönümü Kutlamaları",
     "BacheloretteTitle": "Bekarlığa Veda Partisi   ",
     "BacheloretteText": "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin.    ",
+
     "BosphorusTourTitle": "Boğaz Turu    ",
     "BosphorusTourText": "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz  ",
     "BirthdayTitle": "Doğum Günü Kutlaması    ",
@@ -63,7 +64,39 @@
   "YachtFleet": {
     "motoryachts": "Motoryatlar",
     "invitationBoats": "Davet Tekneleri",
-    "yacht1": "lorem asjdbjasbdhjbs"
+    "yacht1": "Siyah renge sahip yatımız bu özelliği ile İstanbul Boğazı'nda ilk ve tek olma özelliği  taşımaktadır.15 kişiye kadar yat kiralama hizmeti verilmektedir.",
+    "yacht2": "Güler yüzlü personel ve kendine has görünümü ile en iyi yat kiralama hizmetini bu yatımızda bulabilirsiniz.Maksimum 10 kişiye kadar hizmet verilebilmektedir.",
+
+    "yacht3": "Çekirdek aileler için vazgeçilmez olan bu yatımızda 8 kişiye kadar hizmet verilmekte olup,evlilik teklifi gibi organizasyonlarınız için mükemmel bir seçenektir.",
+
+    "yacht4": "Arkadaş grubunuzla ufak bir parti veya kaçamak düşünüyor iseniz bu yatımız tam size göre.8 kişi kapasiteli yatımız yatta doğum günü organizasyonlarınız için ilk sıralarda yer almaktadır.    ",
+
+    "yacht5": "30 kişi kapasitesi ile her türlü organizasyona ev sahipliği yapan bu yatımız eşsiz görünümü ve ışıklandırması ile tüm dikkatleri üzerine çekmektedir.  ",
+
+    "yacht6": "Mavi-Beyaz görünümü ile deniz ile mükemmel bir uyum yakalayan bu yatımızda 15 kişiye kadar yat kiralama hizmeti verilmektedir.",
+
+    "yacht7": "Profesyonel hizmet anlayışını kendine ilke edinen lüks yatımız ile 15 kişiye kadar bireysel ve kurumsal organizasyonlarınızı gerçekleştirebilirsiniz.    ",
+
+    "yacht8": "20 kişi kapasiteye sahip bu yatımız ile doğum günü,bekarlığa veda gibi organizasyonlarınızı gerçekleştirebilirsiniz.Şatafat tutkunları için bir numaralı seçenek olmaktadır.",
+
+    "yacht9": "Keyifli anlara ev sahipliği yapan bu yatımız ile 15 kişiye kadar yat kiralama hizmeti verilmektedir.Geniş arka havuzu ile kalabalık akşam yemekleri için ideal bir seçimdir.",
+
+    "yacht10": "Hem güzel,hem ekonomik bir yat arıyor iseniz doğru adrestesiniz.10 kişiye kadar yat kiralama hizmeti verebildiğimiz bu yatımız ile eğlenceyi doruklarda yaşayın.",
+
+    "yacht11": "12 kişi kapasiteye sahip özel yapım yatımız ile her türlü organizasyonunuzu gerçekleştirebilirsiniz.",
+
+    "yacht12": "36 kişi kapasiteli bu yatımız ile ev konforunu İstanbul Boğazı'na taşıyabilirsiniz.Her detayın özenle planlandığı bu yatımızda her türlü organizasyonunuzu gerçekleştirebilirsiniz.",
+
+    "yacht13": "Şık görünümü ile misafirlerimizin en çok tercih ettiği yatlarımızdan biri olan bu yatımızda yemek düzeninde 60,kokteyl düzeninde 80 kişiye kadar hizmet verilebilmektedir.Davet organizasyonlarınız içim ideal bir seçimdir.",
+
+    "yacht14": "Modern ve farklı rengi ile dikkatleri üzerine çeken bu yatımızın iç dekorasyonunda da bu modern mimariyi görebilmektesiniz.Yemek düzeninde 70,kokteyl düzeninde 100 kişiye kadar hizmet verilebilmektedir.",
+
+    "yacht15": "Kurumsal organizasyonlar için en ideal seçimlerden biri olan bu teknemiz geniş ve modern salonu ile ön plana çıkmaktadır.80 kişiye kadar hizmet verilmektedir.",
+
+    "yacht16": "42 metre uzunluğundaki bu teknemiz modern ve şık görünümü tüm dikkatleri üzerine çekmektedir.Geniş salon hacmi ile birlikte 300 kişiye kadar yemekli organizasyonlar gerçekleştirilebilmektedir.",
+
+    "yacht17": "500 kişiye kadar hizmet verilebilen bu teknemiz İstanbul Boğazı'nın en büyük ve modern teknelerinden biri konumundadır.",
+    "reviewbtn": "Hemen İncele"
   },
   "BoatIcons": {
     "Icon1": "Sıcak İçecek İkramı",
@@ -139,7 +172,11 @@
   },
   "BacheloretteParty": {
     "BachelorettePartyTitle": "Bekarlığa Veda Partisi ",
-    "BachelorettePartyText": "Evlenmeye karar veren çiftler, evlilik öncesi kendi arkadaş gruplarıyla bekarlığa veda partisi yapmaktadır. Gerek kadınlar gerekse de erkekler anın tadını çıkarmak ve doyasıya eğlenmek için partilerinin yatta olmasını tercih etmektedir. Tekneler, hem samimi bir ortam oluşması hem de keyifli dakikalar geçirmek adına, bekarlığa veda partisi yapmak isteyen kişiler tarafından oldukça sık bir şekilde tercih edilmektedir. İstanbul’un eşsiz manzarası ve mavi suları eşliğinde bekarlığa veda etmek isterseniz, sizlere seve seve yardımcı olmak isteriz. E hadi, ne duruyorsunuz? Yoksa hala sıkılmadınız mı evde bekarlığa veda partisi yapmaktan?Partide ister dilediğiniz gibi dans edebilir, ister müziğin ritmine kendinizi kaptırabilir, isterseniz de eşsiz manzaraya dalıp gidebilirsiniz. Eğer dilerseniz, canlı müzik ekiplerini de dahil edebilir ya da bir DJ eşliğinde partinin tadını çıkarabilirsiniz. “Edeceğim dansa dansçılar da eşlik etsin” derseniz eğer, sizler için dansçı da kolayca ayarlayabiliriz. Dileyenler, bekarlığa veda partisini yüzme turu eşliğinde de kutlayabilmektedir. O anın nasıl geçmesini istiyorsanız, bizler sizler için en güzel konsepti ayarlayacağız. Yani, bekarlığa veda partisi organizasyonu sizin istediğiniz gibi olacak, bundan asla şüpheniz olmasın. Alış yerimiz Anadolu Yakası’ndadır. İstanbul Boğazı kıyısında bulunan Çengelköy Kuleli Askeri Lisesinin oradan hareket ettiğimizi söylemek isteriz. Teknemizi, bekarlığa veda partisi için istediğiniz gün ve saate kolayca kiralayabilirsiniz. Bunun için yapmanız gereken tek şey; bizimle anında ve en hızlı şekilde iletişime geçmek."
+    "BachelorettePartyText": "Her veda o kadar da hüzünlü değildir. Hele bu veda yatta yapılırsa işte bu vedanın tadına doyum olmaz.Hem ekonomik hem de kalbinizi sıcacık ısıtacak bir tercih.En sevdiğiniz şarkıları bağıra bağıra söyleyerek bekârlığa veda etmek isteyen damat ve gelin adaylarına özel yatta bekarlığa veda konsepti unutulmaz ve farklı bir seçenek olarak sunulmaktadır.Boğazın görsel bir şova dönüşmüş gece manzarası eşliğinde, canlı müzik veya sevdiğiniz müzik parçaları eşliğinde kız kıza veya erkek erkeğe eğlencenin doruklarında yaşayabilirsiniz.Bir çok mekandan farklı olarak yatta bekârlığa veda partileri hem ekonomik olması hem de gözünüze, gönlünüze hitap etmesi sebebiyle tüm misafirlerinizi memnun edecektir."
+  },
+  "Birthday": {
+    "BirthdayTitle": "Doğum Günü Kutlaması ",
+    "BirthdayText": "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz.Yatınızı kiralayıp Boğaz Turunuzu yaparken, istediğiniz tarzda bir müzik eşliğinde size özel bir doğum günü kutlaması organize edebilirsiniz. Pastanızı yatta Boğaz’ın ortasında kesebilir ve yeni yaşınıza muhteşem bir ortamda girebilirsiniz.Sevdiklerinize yatta sürpriz bir doğum günü yapabilir ve doğum günü sürprizinizi havai fişek, lazer gösterisi, volkan ışık gösterisi, fasıl, şampanya patlatılması, DJ performans, uçan balon alternatifleri ile zenginleştirebilir, sevdiğinize unutulmaz bir doğum günü yaşatabilirsiniz.Aklınızdaki doğum günü kutlamasını bize söylemeniz yeterli biz tüm organizasyonu sizin için ayarlıyor ve size unutulmaz bir doğum günü yaşatıyoruz."
   },
   "MarriageProposal": {
     "MarriageProposalTitle": "Evlilik Teklifi ",
@@ -155,34 +192,7 @@
   },
   "AboutUsPage": {
     "PageName": "Hakkımızda",
-    "Icon1Title": "Ekonomik Fiyatlar",
-    "Icon1Text": "Rekabetçi ve kaliteden ödün vermeksizin sürekli ekonomik ve kaliteli hizmet prensibi.",
-    "Icon2Title": "Birinci Sınıf Filosu ve Çalışanlar",
-    "Icon2Text": "Gelişen ve geliştirilen filosu ile herzaman en iyi yat filosu ve çalışanları ile birlikte hizmetinizde.",
-    "Icon3Title": "5 Yıldan Fazla Denizcilik Tecrübesi",
-    "Icon3Text": "Rekabetçi ve kaliteden ödün vermeksizin sürekli ekonomik ve kaliteli hizmet prensibi.",
-    "AboutSealifeTitle": "Sealife Hakkında    ",
-    "AboutSealifeText": "Daima en iyi hizmet sloganı ile yola çıkan SeaLife yatçılık her zaman müşteri memnuniyeti ve müşteri deneyimini ön planda tutmuştur. Yat kiralama faaliyetlerinin tamamı vergi mükellefi olan firmamız tarafından yürütülmektedir. Siz değerli konuklarımıza seyir boyunca turlarımızda ev konforunu yaşatmak için geniş yat filomuz ile hizmet vermekten mutluluk duyarız. Firmamız; İstanbul yanısıra (Beykoz koyu, Adalar, Poyrazköy 3.köprü) Muğla (Bodrum, Göcek) da yat kiralama hizmeti vermektedir. Yatlarımız; Evlilik teklifi , Bekarlığa veda partileri, Seyahat turları, Konaklamalı turlar, İş yemeği ve seyahatleri, yüzme turları gibi birçok alnda sizin hizmetinizdedir. Bu seyirler için yemek, sıcak ve soğuk içecek servisleri, eğlence aktiviteleri, lazer ve havai fişek gösterileri seçeneklerimiz mevcut olup siz değerli konuklarımıza kaliteli hizmet sunmayı hedeflemekteyiz.",
-    "UpdatedYachtModels": "2020 Model Yeni ve Güncel Yat Modelleri    ",
-    "CurrentyachtFleetTitle": "Güncel Yat Filomuz.",
-    "CurrentyachtFleetText": "Seyirinizi ve eğlencenizi daha konforlu kılmak için, 2020 model güncel yat filomuzun ortak öne çıkan özelliklerini sizler için bir araya getirdik. Tüm yat modellerimizde belirtilen özellikler yer almaktadır.",
-    "Feature1": "220v Kullanılabilir elektrik priz (JENERATÖR)",
-    "Feature2": "2 Adet WC ve Duş",
-    "Feature3": "Mevsime göre Isıtma ve soğutma imkanı",
-    "Feature4": "Tüm paketlerde ücretsiz sıcak içecek ikramı",
-    "Feature5": "Ücretsiz Wi-Fi Hotspot imkanı    ",
-    "Feature6": "Güler yüzlü servis personeli",
-    "Feature7": "Müzik ses sistemi",
-    "Feature8": "Işıklandırma sistemleri",
-    "Feature9": "TV Sistemi",
-    "SealifeHistoryTitle": "Sealife Tarihçesi",
-    "SealifeHistoryText": "Kuruluşumuzdan günümüze şirketimiz hakkında ",
-    "2010Title": "SeaLife Yat Kiralama Hizmetine Başladı",
-    "2010Text": "Denizcilik alanında faaliyet gösteren şirketimiz kurumsal anlamda yat kiralama hizmetine ilk olarak 2010 yılında değerli müşterilerine yat kiralama hizmeti vermeye başlamıştır.",
-    "2015Title": "İlk Büyüme Hedefi",
-    "2015Text": "Artan arz talep doğrultusunda daima en iyi hizmet anlayışını benimseyen personel kadrosu ile sealife yatçılık, 2015 yılında yat filosunu 2 katı büyütmeyi hedeflemiş ve filosunu geliştirmeye gitmiştir.",
-    "2020Title": "Gelişen Teknolojiye Uyum  ",
-    "2020Text": "2010 yılında kurumsal anlamda yat kiralama hizmeti vermekte olan sealife yatçılık, gelişen teknoloji çağına ayak uydurarak kurumsal web arayüz ve sosyal medya hesaplarını oluşturarak yeni kanallardan müşterilerine daha ulaşılabilir olmuştur.Aynı şekilde gelişen teknolojiye ayak uydurmak adına tüm yatlarında internet, televizyon ve elektrik ihtiyaçları gibi günümüz konfor şartlarına uygun lüks hizmetleri siz değerli misafirlerin hizmet kullanımına sunmuştur."
+    "PageNameText": "Neva yat kiralama olarak en önemli ilkemiz müşteri memnuniyeti  olmaktadır.Misafirlerimizin özel günlerinden unutulmaz bir şekilde yararlanması için yoğun bir çaba sarf etmekteyiz.İstediğiniz donanım ve ölçülerdeki motoryatlarımız ve teknelerimiz ile 7/24 hizmetinizdeyiz."
   },
   "BoatSpecifications": {
     "BoatSpecifications": "Tekne Özellikleri",

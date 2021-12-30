@@ -62,7 +62,25 @@
   },
   "YachtFleet": {
     "motoryachts": "Motor Yachts",
-    "invitationBoats": "Invitation Boats"
+    "invitationBoats": "Invitation Boats",
+    "yacht1": "With this feature, our black yacht is the first and only one in the Bosphorus. Yacht charter service is provided for up to 15 people.",
+    "yacht2": "You can find the best yacht charter service in this yacht with its friendly staff and unique appearance. It can serve up to 10 people.",
+    "yacht3": "This yacht, which is indispensable for core families, serves up to 8 people and is a perfect option for your organizations such as a marriage proposal.",
+    "yacht4": "If you are thinking of a small party or getaway with your group of friends, this yacht is for you. Our yacht with a capacity of 8 people is in the first place for your birthday organizations on the yacht.",
+    "yacht5": "This yacht, which hosts all kinds of organizations with a capacity of 30 people, attracts all attention with its unique appearance and lighting.",
+    "yacht6": "Boat charter service is provided for up to 15 people on this yacht, which has a perfect harmony with the sea with its blue-white appearance.",
+    "yacht7": "With our luxury yacht, which adopts the professional service concept as its principle, you can organize individual and corporate organizations for up to 15 people.",
+    "yacht8": "With this yacht with a capacity of 20 people, you can organize events such as birthdays and bachelorettes. It is the number one choice for luxury lovers.",
+    "yacht9": "This yacht, which hosts pleasant moments, provides yacht charter service for up to 15 people. It is an ideal choice for crowded dinners with its large aft pool.",
+    "yacht10": "If you are looking for a beautiful and economical yacht, you are at the right address. Experience the fun at peaks with this yacht that we can provide yacht charter service for up to 10 people.",
+    "yacht11": "You can organize all kinds of events with our custom-built yacht with a capacity of 12 people.",
+    "yacht12": "You can carry the comfort of home to the Bosphorus with this yacht with a capacity of 36 people. You can carry out all kinds of organizations on this yacht where every detail is carefully planned.",
+    "yacht13": "This yacht, which is one of the most preferred yachts by our guests with its elegant appearance, can serve up to 60 people in meal order and 80 people in cocktail order. It is an ideal choice for your invitation organizations.",
+    "yacht14": "You can see this modern architecture in the interior decoration of this yacht, which attracts attention with its modern and different color. It can serve up to 70 people in dinner order and 100 people in cocktail order.",
+    "yacht15": "This boat, which is one of the most ideal choices for corporate organizations, stands out with its large and modern saloon. It serves up to 80 people.",
+    "yacht16": "This 42-meter-long yacht attracts all attention with its modern and stylish appearance. With its large saloon volume, dinner organizations can be held for up to 300 people.",
+    "yacht17": "This boat, which can serve up to 500 people, is one of the largest and modern boats in the Bosphorus.",
+    "reviewbtn": "Review Yacht"
   },
   "BoatIcons": {
     "Icon1": "Hot Drink Service",
@@ -138,7 +156,11 @@
   },
   "BacheloretteParty": {
     "BachelorettePartyTitle": "Bachelorette Party",
-    "BachelorettePartyText": "Couples who decide to get married hold a bachelorette party with their own group of friends before marriage. Both women and men prefer to have their parties on the yacht to enjoy the moment and have fun to the fullest. Boats are frequently preferred by people who want to have a bachelorette party, in order to create a friendly atmosphere and have pleasant moments. If you would like to say goodbye to your bachelorette with the unique view and blue waters of Istanbul, we would be happy to assist you. So come on, what are you waiting for? Or are you still not bored of having a bachelorette party at home? At the party, you can dance as you wish, immerse yourself in the rhythm of the music, or simply dive into the unique scenery. If you wish, you can include live bands or enjoy the party with a DJ. If you say, “Let the dancers accompany the dance I'm going to do”, we can easily arrange a dancer for you. Those who wish can celebrate the bachelorette party accompanied by a swimming tour. How you want that moment to pass, we will arrange the most beautiful concept for you. So, the bachelorette party organization will be the way you want it to be, you can never doubt it. Our place of purchase is on the Anatolian side. We would like to say that we departed from Çengelköy Kuleli Military High School located on the shore of the Bosphorus. You can easily rent our boat for the bachelorette party for the day and time you want. All you need to do for this is; to contact us instantly and in the fastest way."
+    "BachelorettePartyText": "Not every goodbye is that sad. Especially if this farewell is made on a yacht, this is a choice that will warm your heart warmly and economically. Accompanied by a night view that has turned into a visual show, you can enjoy live music or your favorite music tracks at the peak of entertainment. Unlike many other venues, bachelorette parties on yachts will please all your guests as they are both economical and appealing to your eyes and hearts."
+  },
+  "Birthday": {
+    "BirthdayTitle": "Birthday Party",
+    "BirthdayText": "If you want, you can have a romantic birthday alone with your loved one or you can have a birthday party on the yacht with your crowded group.While chartering your yacht and making your Bosphorus Tour, you can organize a special birthday celebration with the music you want. You can cut your cake on the yacht in the middle of the Bosphorus and enter your new age in a magnificent environment. You can make a surprise birthday for your loved ones on the yacht and enrich your birthday surprise with fireworks, laser show, volcano light show, fasıl, champagne explosion, DJ performance, flying balloon alternatives, You can make your loved one have an unforgettable birthday. Just tell us what birthday celebration you have in mind, we arrange the whole organization for you and give you an unforgettable birthday."
   },
   "MarriageProposal": {
     "MarriageProposalTitle": "Marriage Proposal ",
@@ -154,34 +176,7 @@
   },
   "AboutUsPage": {
     "PageName": "About Us",
-    "Icon1Title": "Economic Prices",
-    "Icon1Text": "The principle of continuous economic and quality service without sacrificing competitiveness and quality.",
-    "Icon2Title": "First Class Fleet and Staff",
-    "Icon2Text": "With its developing and developed fleet, it is always at your service with the best yacht fleet and employees.",
-    "Icon3Title": "Customer Happiness",
-    "Icon3Text": "The principle of continuous economic and quality service without sacrificing competitiveness and quality.",
-    "AboutSealifeTitle": "About Sealife",
-    "AboutSealifeText": "Setting out with the motto of always the best service, SeaLife Yachting has always prioritized customer satisfaction and customer experience. All yacht charter activities are carried out by our company, which is a taxpayer. We are happy to serve you, our esteemed guests, with our large fleet of yachts, in order to provide you with the comfort of home during our tours. Our company; In addition to Istanbul (Beykoz Bay, Princes' Islands, Poyrazköy 3rd bridge), it also provides yacht charter services in Muğla (Bodrum, Göcek). Our yachts; It is at your service in many fields such as marriage proposal, Bachelorette parties, Travel tours, Accommodation tours, Business lunches and travels, swimming tours. For these cruises, we have options for meals, hot and cold beverage services, entertainment activities, laser and fireworks shows, and we aim to provide quality service to our valued guests.",
-    "UpdatedYachtModels": "2020 Model New and Current Yacht Models",
-    "CurrentyachtFleetTitle": "Our Current Yacht Fleet",
-    "CurrentyachtFleetText": "In order to make your cruise and entertainment more comfortable, we have brought together the prominent features of our current 2020 yacht fleet for you. All of our yacht models have the specified features.",
-    "Feature1": "220v Usable electrical socket.",
-    "Feature2": "2 WC and Shower",
-    "Feature3": "Heating and cooling according to the season",
-    "Feature4": "Free hot drink in all packages",
-    "Feature5": "Free Wi-Fi Hotspot facility",
-    "Feature6": "Friendly service staff",
-    "Feature7": "Sound system",
-    "Feature8": "Lighting systems",
-    "Feature9": "TV System",
-    "SealifeHistoryTitle": "Sealife History",
-    "SealifeHistoryText": "About our company from our establishment to the present",
-    "2010Title": "Sea Life Started Yacht Charter Service",
-    "2010Text": "Our company, which operates in the field of maritime, started to provide yacht rental services to its valuable customers in 2010 for the first time in corporate yacht rental service.",
-    "2015Title": "Initial Growth Target",
-    "2015Text": "Sealife Yachting, with its staff that always adopts the best service understanding in line with the increasing supply and demand, aimed to double its yacht fleet in 2015 and went to improve its fleet.",
-    "2020Title": "Adaptation to Developing Technology",
-    "2020Text": "Sealife Yachting, which has been providing corporate yacht charter services in 2010, has been more accessible to its customers through new channels by keeping up with the developing technology age and creating corporate web interface and social media accounts.Likewise, in order to keep up with the developing technology, luxury services such as internet, television and electricity needs in all of its yachts, suitable for today's comfort conditions, are offered to our valued guests."
+    "PageNameText": "As Neva yacht charter, our most important principle is customer satisfaction. We make an intense effort to ensure that our guests benefit from their special days in an unforgettable way. We are at your service 24/7 with our motor yachts and boats of the equipment and dimensions you want."
   },
   "BoatSpecifications": {
     "BoatSpecifications": "Boat Specifications",

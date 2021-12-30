@@ -11,6 +11,7 @@ const YachtCard = ({
   boatheight,
   boatcapacity,
   boatfood,
+  reviewbtn,
 }) => {
   return (
     <div class="">
@@ -52,7 +53,7 @@ const YachtCard = ({
               href={`./tekneler/yacht${boatid}`}
               class="btn btn-boat text-white position-absolute  start-50 translate-middle-x "
             >
-              Hemen incele
+              {reviewbtn}
             </a>
           </div>
         </div>

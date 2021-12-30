@@ -3,7 +3,7 @@ import Image from "next/image";
 const Events = ({ img, title, text }) => {
   return (
     <div>
-      <div className="events-container d-flex ">
+      <div className="events-container d-flex align-items-center">
         <div className="events-img">
           <Image
             className=" "
