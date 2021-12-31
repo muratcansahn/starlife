@@ -11,17 +11,14 @@ import {
 
 const BoatPage = ({ boatUrl }) => {
   // Get boat data from url prop
-  const boat = BoatData.filter((item) => item.url === boatUrl)[0];
+  console.log(boatUrl);
+  const boatid = boatUrl.substr(-1);
+
   return (
     <>
-      <BoatPageHead boat={boat} />
+      <BoatPageHead />
       <main>
-        <Container>
-          <WhatsappButton />
-          <Contact />
-          <Header />
-        </Container>
-        <YachtDetailPage images={boat.DetailImages} boat={boat} />
+        <YachtDetailPage id={boatid} />
         <Footer />
       </main>
     </>

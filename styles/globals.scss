@@ -7,8 +7,9 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Montserrat", sans-serif;
-  color: $secondary;
+  color: white !important;
   overflow-x: hidden;
+  background-color: #000000 !important;
 }
 
 a {
@@ -53,4 +54,32 @@ html {
 }
 .font-700 {
   font-weight: 700 !important;
+}
+.stories {
+  background-color: rgb(0, 0, 0);
+  height: 100px;
+  width: 90vw;
+  display: flex;
+  @include media-breakpoint-up(md) {
+    display: none !important;
+  }
+}
+.story-image {
+  border-radius: 50%;
+  border: 2px solid #ff0000 !important;
+  background-color: #fff;
+  padding: 2px !important;
+}
+.story-text {
+  font-size: 12px;
+  margin-top: 5px;
+}
+.story {
+  height: 90px;
+  width: 90px;
+  text-align: center;
+}
+button#dropdown-basic {
+  color: white;
+  border: 1px solid #fff;
 }

@@ -1,5 +1,4 @@
 import Image from "next/image";
-import ComponentHeaderImage from "../../public/images/sealife-mini.png";
 
 const ComponentHeader = ({ title, text }) => {
   return (

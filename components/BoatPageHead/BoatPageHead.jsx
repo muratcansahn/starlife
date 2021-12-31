@@ -5,12 +5,10 @@ const BoatPageHead = ({ boat }) => {
   const t = useTranslations("Home");
   return (
     <Head>
-      <title>
-        {boat.Name} | {t("title")}
-      </title>
+      <title>Neva Yacht Kiralama</title>
       <meta
         name="description"
-        content={`${boat.Name} teknemizin tüm detayları için tıklayın`}
+        content="teknemizin tüm detayları için tıklayın"
       />
       <link rel="icon" href="/favicon.ico" />
 

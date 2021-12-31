@@ -1,9 +1,17 @@
+import Image from "next/image";
+
 const Events = ({ img, title, text }) => {
   return (
     <div>
-      <div className="events-container d-flex ">
+      <div className="events-container d-flex align-items-center">
         <div className="events-img">
-          <img className="card-img-top" src={img} />
+          <Image
+            className=" "
+            src={img}
+            alt="Yachtlogo"
+            height="210px"
+            width="350px"
+          />
         </div>
         <div className="events-textbox p-4">
           <div className="events-title font-montserrat">{title}</div>

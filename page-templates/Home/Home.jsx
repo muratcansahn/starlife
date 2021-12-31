@@ -12,24 +12,21 @@ import {
   Container,
   UpperFooter,
   WhatsappButton,
+  Features,
+  HomePageText,
+  YachtCard,
 } from ".";
 
 const Home = () => {
   return (
     <main className="">
-      <Container>
-        <WhatsappButton />
-        <Contact />
-        <Header />
-      </Container>
+      <WhatsappButton />
+      <Header />
       <Banner />
-      <YachtRentServices />
+      <Features />
+      <HomePageText />
       <YachtFleet />
-      <Policy />
-      <BannerDown />
-      <WhySealife />
-      <SealifeOnSocialMedia />
-      <UpperFooter />
+
       <Footer />
     </main>
   );

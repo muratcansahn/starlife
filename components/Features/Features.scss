@@ -1,0 +1,19 @@
+@import "bootstrap/scss/mixins";
+@import "../../styles/variables.scss";
+
+.box-title {
+  font-size: 22px;
+  font-weight: 600;
+}
+.box {
+  padding: 20px;
+  width: 380px;
+  @include media-breakpoint-down(lg) {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+  }
+}
+.features-row {
+  margin: 0 !important;
+}

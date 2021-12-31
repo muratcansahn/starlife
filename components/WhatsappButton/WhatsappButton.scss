@@ -28,3 +28,25 @@
     display: none;
   }
 }
+.call-button {
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  padding: 5px 10px;
+  height: 45px;
+  z-index: 1030;
+  background-color: #2f3dff;
+  border-radius: 14px !important;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.3);
+
+  @include media-breakpoint-down(md) {
+    height: 50px;
+    width: 50px;
+  }
+  display: flex;
+  align-items: center;
+  a {
+    text-decoration: none;
+    color: white;
+  }
+}
