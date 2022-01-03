@@ -3,10 +3,7 @@ export const servicesSubMenuItems = [
     href: "/hizmetlerimiz/istanbul-bogaz-turu",
     title: "BosphorusTourTitle",
   },
-  {
-    href: "/hizmetlerimiz/adalar-turu",
-    title: "IslandTourTitle",
-  },
+
   {
     href: "/hizmetlerimiz/yuzme-turlari",
     title: "SwimmingTourTitle",
@@ -22,11 +19,6 @@ export const servicesSubMenuItems = [
   {
     href: "/hizmetlerimiz/is-yemegi-ve-ozel-toplantilar",
     title: "BusinessLunchTitle",
-  },
-
-  {
-    href: "/hizmetlerimiz/yil-donumu-kutlamalari",
-    title: "AnniversaryTitle",
   },
 
   ,

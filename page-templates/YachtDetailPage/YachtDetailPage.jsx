@@ -1,14 +1,12 @@
 import { useTranslations } from "next-intl";
-import Contact from "../../components/Contact";
 import Header from "../../components/Header";
-import PageLogo from "../../components/PageLogo/PageLogo";
 import WhatsappButton from "../../components/WhatsappButton/WhatsappButton";
-import Container from "../../components/Container";
 import Image from "next/image";
 import { BoatData } from "../../utils/boats";
 
 const YachtDetailPage = ({ images, boat, id }) => {
   const t = useTranslations("BoatSpecifications");
+  console.log(id);
   const currentBoatImage = BoatData[id - 1].DetailImages;
   console.log(currentBoatImage);
 

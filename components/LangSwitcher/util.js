@@ -9,9 +9,4 @@ export const langOptions = [
     title: "English",
     flag: "",
   },
-  {
-    abbr: "de",
-    title: "Deutsch",
-    flag: "",
-  },
 ];
