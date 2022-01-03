@@ -17,7 +17,7 @@
   },
 
   "Home": {
-    "title": "Sealife Yacht Rental",
+    "title": "Neva Yacht Rental",
     "description": ""
   },
   "Features": {
@@ -46,7 +46,7 @@
   },
 
   "AboutUs": {
-    "title": "About Us | Sealife Yacht Rental",
+    "title": "About Us | Neva Yacht Rental",
     "description": "We are happy to serve you, our esteemed guests, with our large fleet of yachts, in order to provide you with the comfort of home during our tours."
   },
   "Banner": {
@@ -80,7 +80,8 @@
     "yacht15": "This boat, which is one of the most ideal choices for corporate organizations, stands out with its large and modern saloon. It serves up to 80 people.",
     "yacht16": "This 42-meter-long yacht attracts all attention with its modern and stylish appearance. With its large saloon volume, dinner organizations can be held for up to 300 people.",
     "yacht17": "This boat, which can serve up to 500 people, is one of the largest and modern boats in the Bosphorus.",
-    "reviewbtn": "Review Yacht"
+    "reviewbtn": "Review Yacht",
+    "weather": "ISTANBUL WEATHER AND WIND CONDITION"
   },
   "BoatIcons": {
     "Icon1": "Hot Drink Service",
