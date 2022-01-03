@@ -12,7 +12,9 @@ import {
 const BoatPage = ({ boatUrl }) => {
   // Get boat data from url prop
   console.log(boatUrl);
-  const boatid = boatUrl.substr(-1);
+  const boatsplit = boatUrl.split(" ");
+  const boatid = boatsplit[1];
+  console.log(boatsplit);
 
   return (
     <>

@@ -1,8 +1,5 @@
 @import "bootstrap/scss/mixins";
 
-.yacht-fleet {
-  background-image: url(../../public/images/yacht-fleet-bg.png);
-}
 .locations {
   background-color: white !important;
   border-radius: 20px;
@@ -36,9 +33,10 @@
 }
 
 .location-buttons {
-  border-radius: 30px;
-  background-color: rgb(255, 255, 255);
-}
-.location-buttons span {
-  color: black;
+  border-radius: 15px;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  .location-buttons span {
+    color: black;
+  }
 }

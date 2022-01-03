@@ -1,8 +1,7 @@
 import { useTranslations } from "next-intl";
 import Head from "next/head";
-
+import { Carousel } from "react-bootstrap";
 import ServicePage from "../../page-templates/ServicePage";
-
 import { servicesSubMenuItems } from "../../components/Header";
 
 let ServicesRoute = servicesSubMenuItems.filter(
@@ -18,11 +17,52 @@ const businessLunch = ({}) => {
   return (
     <>
       <Head>
-        <title>İş Yemeği ve Özel Toplantılar| Sealife Yat Kiralama</title>
+        <title>İş Yemeği ve Özel Toplantılar| Neva Yat Kiralama</title>
         <meta name="description" content="İstanbul Boğaz Turu hakkında" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <ServicePage
+        servicescarousel={
+          <Carousel indicators={false} controls={false}>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/business-dinner/1.jpg"
+                alt="First slide"
+              />
+              <Carousel.Caption></Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/business-dinner/2.jpg"
+                alt="First slide"
+              />
+              <Carousel.Caption></Carousel.Caption>
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/business-dinner/3.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/business-dinner/4.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/business-dinner/5.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>{" "}
+          </Carousel>
+        }
         lang="tr"
         route={ServicesRoute}
         servicespagetitle={t("BusinessLunchTitle")}

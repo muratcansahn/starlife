@@ -35,7 +35,7 @@ const Header = () => {
             <a className="text-active d-flex mx-1 align-items-end">
               {" "}
               <Image src="/images/logo-main.jpg" width={90} height={70} />
-              <p className="brand">Neva Yacht's</p>
+              <p className="brand">Neva Yat Kiralama</p>
             </a>
           </Link>
         </div>
