@@ -9,6 +9,6 @@ export function getStaticProps({ locale }) {
   };
 }
 
-const yacht12 = () => <BoatPage boatUrl="yacht12" />;
+const yacht12 = () => <BoatPage boatUrl="yacht 12" />;
 
 export default yacht12;

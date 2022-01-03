@@ -5,7 +5,6 @@ import Image from "next/image";
 import {
   Contact,
   Container,
-  GraySection,
   ComponentHeader,
   Header,
   Footer,
