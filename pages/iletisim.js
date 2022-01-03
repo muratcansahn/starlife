@@ -8,8 +8,8 @@ const iletisim = () => {
   return (
     <>
       <Head>
-        <title>{t("title")}</title>
-        <meta name="description" content={t("description")} />
+        <title>Neva Yat Kiralama</title>
+        <meta name="description" content="Neva Yat Kiralama" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <ContactPage />

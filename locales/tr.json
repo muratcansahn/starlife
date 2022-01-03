@@ -16,7 +16,7 @@
     "AnniversaryTitle": "Yıl Dönümü Kutlamaları"
   },
   "Home": {
-    "title": "Sealife Yat Kiralama",
+    "title": "Neva Yat Kiralama",
     "description": ""
   },
   "Features": {
@@ -47,7 +47,7 @@
   },
 
   "AboutUs": {
-    "title": "Hakkımızda | Sealife Yat Kiralama",
+    "title": "Hakkımızda | Neva Yat Kiralama",
     "description": "Siz değerli konuklarımıza seyir boyunca turlarımızda ev konforunu yaşatmak için geniş yat filomuz ile hizmet vermekten mutluluk duyarız. "
   },
   "Banner": {
@@ -66,11 +66,8 @@
     "invitationBoats": "Davet Tekneleri",
     "yacht1": "Siyah renge sahip yatımız bu özelliği ile İstanbul Boğazı'nda ilk ve tek olma özelliği  taşımaktadır.15 kişiye kadar yat kiralama hizmeti verilmektedir.",
     "yacht2": "Güler yüzlü personel ve kendine has görünümü ile en iyi yat kiralama hizmetini bu yatımızda bulabilirsiniz.Maksimum 10 kişiye kadar hizmet verilebilmektedir.",
-
     "yacht3": "Çekirdek aileler için vazgeçilmez olan bu yatımızda 8 kişiye kadar hizmet verilmekte olup,evlilik teklifi gibi organizasyonlarınız için mükemmel bir seçenektir.",
-
     "yacht4": "Arkadaş grubunuzla ufak bir parti veya kaçamak düşünüyor iseniz bu yatımız tam size göre.8 kişi kapasiteli yatımız yatta doğum günü organizasyonlarınız için ilk sıralarda yer almaktadır.    ",
-
     "yacht5": "30 kişi kapasitesi ile her türlü organizasyona ev sahipliği yapan bu yatımız eşsiz görünümü ve ışıklandırması ile tüm dikkatleri üzerine çekmektedir.  ",
 
     "yacht6": "Mavi-Beyaz görünümü ile deniz ile mükemmel bir uyum yakalayan bu yatımızda 15 kişiye kadar yat kiralama hizmeti verilmektedir.",
@@ -96,7 +93,8 @@
     "yacht16": "42 metre uzunluğundaki bu teknemiz modern ve şık görünümü tüm dikkatleri üzerine çekmektedir.Geniş salon hacmi ile birlikte 300 kişiye kadar yemekli organizasyonlar gerçekleştirilebilmektedir.",
 
     "yacht17": "500 kişiye kadar hizmet verilebilen bu teknemiz İstanbul Boğazı'nın en büyük ve modern teknelerinden biri konumundadır.",
-    "reviewbtn": "Hemen İncele"
+    "reviewbtn": "Hemen İncele",
+    "weather": "İSTANBUL ANLIK HAVA VE RÜZGAR DURUMU"
   },
   "BoatIcons": {
     "Icon1": "Sıcak İçecek İkramı",
