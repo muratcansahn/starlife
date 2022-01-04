@@ -49,21 +49,23 @@ const YachtFleet = () => {
         <div className="my-2">
           {" "}
           {yachtModel === "motoryacht" ? (
-            <div className="  py-2 px-3  border d-inline-block location-buttons">
-              <button
-                className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
-                onClick={() => handleYachtModel("motoryacht", "İstanbul")}
-              >
-                İstanbul
-              </button>
-              <span className="mx-1 ">|</span>
-
-              <button
-                className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
-                onClick={() => handleYachtModel("motoryacht", "Muğla")}
-              >
-                Muğla
-              </button>
+            <div>
+              <div className="  py-2 px-3  m-2 border d-inline-block location-buttons location">
+                <button
+                  className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+                  onClick={() => handleYachtModel("motoryacht", "İstanbul")}
+                >
+                  İstanbul'daki Teknelerimiz
+                </button>
+              </div>
+              <div className="  py-2 px-3 m-2 border d-inline-block location-buttons location">
+                <button
+                  className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+                  onClick={() => handleYachtModel("motoryacht", "Muğla")}
+                >
+                  Muğla'daki Teknelerimiz
+                </button>
+              </div>
             </div>
           ) : (
             ""
@@ -90,18 +92,6 @@ const YachtFleet = () => {
           );
         })}
       </div>
-      <section class="description">
-        <div class="bg-light container ">
-          <h4 class="pb-3  pt-4 text-center"> {t("weather")}</h4>
-          <iframe
-            width="100%"
-            height="550"
-            src="https://embed.windy.com/embed2.html?lat=41.033&lon=29.047&detailLat=41.080&detailLon=29.047&width=650&height=450&zoom=11&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=default&metricTemp=default&radarRange=-1"
-            frameborder="0"
-            className="mx-auto my-4"
-          ></iframe>{" "}
-        </div>
-      </section>
     </div>
   );
 };

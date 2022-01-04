@@ -24,13 +24,13 @@
     "UniqueExperienceTitle": "Unique Experience",
     "UniqueExperienceText": "In this unique experience you will have with our yachts, you can enjoy the freedom in the eye-catching blue of the sea.",
     "SpecialEventsTitle": "Special Events",
-    "SpecialEventsText": "Marriage proposal, Birthday, Bachelorette, Dinner, Wedding, Engagement, Bosphorus tour opportunities",
+    "SpecialEventsText": "Marriage proposal, Birthday, Bachelorette, Dinner, Wedding, Engagement, Bosphorus tour opportunities.",
     "SmileServicesTitle": "Friendly Service",
-    "SmileServicesText": "We are always at your service for you, our valued guests, to spend quality and comfortable time."
+    "SmileServicesText": "We are always at your service for you, our valued guests, to spend quality and comfortable time.",
+    "weather": "ISTANBUL WEATHER AND WIND CONDITION"
   },
   "HomePageText": {
-    "HomePageText1": "It has been home to many empires over the years.Enjoy the natural beauties of Istanbul with seven hills that unite the continent.Safe, Comfortable and Luxury over the sea with us   Would you like to travel with our motor yachts? You also have the Bosphorus Bridge.If you are one of those who say that I passed over it and could not pass under it! You in Istanbul We invite you to experience the unique view of the Bosphorus.",
-    "HomePageText2": " We are honored to welcome you, our valued guests, with our Stay or Daily tours."
+    "HomePageText1": " We invite you to experience the unique view of the Bosphorus. We are honored to welcome you, our valued guests, with our Stay or Daily tours."
   },
   "Services": {
     "AnniversaryTitle": "Anniversary Celebrations",
@@ -42,7 +42,7 @@
     "BirthdayText": "If you want, you can have a romantic birthday alone with your loved one or you can have a birthday party on the yacht with your crowded group.",
     "BusinessDinnerTitle": "Business Dinner",
     "BusinessDinnerText": "You can organize your business lunches on our boats, which are more intimate places compared to offices.",
-    "MarriageProposalTitle": "Marriage Proposa "
+    "MarriageProposalTitle": "Marriage Proposal "
   },
 
   "AboutUs": {
@@ -51,7 +51,17 @@
   },
   "Banner": {
     "FirstText": "How about change your understanding of entertainment?",
-    "SecondText": "Special Prices for Website Launch"
+    "SecondText": "Special Prices for Website Launch",
+    "AnniversaryTitle": "Anniversary Celebrations",
+    "BacheloretteTitle": "Bachelorette Party",
+    "BacheloretteText": "Would you like to end your singleness with a perfect party in your last days before marriage! Organize an unforgettable party with our organizations with every detail considered.",
+    "BosphorusTourTitle": "Bosphorus Tour",
+    "BosphorusTourText": "You can discover the unique beauties of the Bosphorus with our boats.",
+    "BirthdayTitle": "Birthday celebrations",
+    "BirthdayText": "If you want, you can have a romantic birthday alone with your loved one or you can have a birthday party on the yacht with your crowded group.",
+    "BusinessDinnerTitle": "Business Dinner",
+    "BusinessDinnerText": "You can organize your business lunches on our boats, which are more intimate places compared to offices.",
+    "MarriageProposalTitle": "Marriage Proposal "
   },
   "YachtRent": {
     "YachtRentTitle": "Yacht Rent Service",
@@ -80,7 +90,9 @@
     "yacht15": "This boat, which is one of the most ideal choices for corporate organizations, stands out with its large and modern saloon. It serves up to 80 people.",
     "yacht16": "This 42-meter-long yacht attracts all attention with its modern and stylish appearance. With its large saloon volume, dinner organizations can be held for up to 300 people.",
     "yacht17": "This boat, which can serve up to 500 people, is one of the largest and modern boats in the Bosphorus.",
-    "reviewbtn": "Review Yacht",
+    "yacht18": "Our luxury yacht, which can accommodate up to 6 people in the Bodrum Torba and provides daily service for up to 10 people, has become indispensable in Bodrum Torba with its friendly staff. You can make daily, weekly, monthly reservations for our VIP yacht.",
+    "yacht19": "Our luxury luxury yacht, which is indispensable for small families in Bodrum Torba , can serve up to 5 people. You can contact us for daily reservations.",
+    "yacht20": "Our ultra-luxury comfortable yacht with magnificent design in Fethiye Gocek can serve up to 8 people. You can make daily, weekly, monthly reservations with its experienced staff.",
     "weather": "ISTANBUL WEATHER AND WIND CONDITION"
   },
   "BoatIcons": {

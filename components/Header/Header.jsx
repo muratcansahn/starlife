@@ -32,15 +32,15 @@ const Header = () => {
       <div className="">
         <div className="logo mr-2">
           <Link href="/">
-            <a className="text-active d-flex mx-1 align-items-end">
+            <a className="text-active d-flex mx-1 align-items-end left-menu">
               {" "}
-              <Image src="/images/logo-main.jpg" width={90} height={70} />
+              <Image src="/images/logo-main.jpg" width={70} height={60} />
               <p className="brand">Neva Yat Kiralama</p>
             </a>
           </Link>
         </div>
       </div>
-      <div className="d-flex right-menu">
+      <div className="d-flex right-menu mt-2">
         <ul className=" menu align-items-center  justify-content-around   mt-2 font-weight-bold mx-3">
           <li>
             <Link href="/">

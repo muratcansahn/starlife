@@ -14,15 +14,11 @@ const HomePageText = () => {
           className="neva-logo"
           src={"/images/neva-logo.png"}
           alt="Yachtlogo"
-          height="320px"
-          width="320px"
+          height="240px"
+          width="240px"
         />
       </div>
-      <p className="homepage-text my-4 mx-3">
-        {t("HomePageText1")}
-        <br />
-        {t("HomePageText2")}
-      </p>
+      <p className="homepage-text my-4 mx-3">{t("HomePageText1")}</p>
     </div>
   );
 };
