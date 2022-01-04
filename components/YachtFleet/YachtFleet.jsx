@@ -33,14 +33,18 @@ const YachtFleet = () => {
       <div className="text-center">
         <div className="  py-2 px-3  border d-inline-block location-buttons my-3">
           <button
-            className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+            className={`btn py-1 px-1 font-18 font-700  btn-sm ${
+              yachtModel === "motoryacht" ? " text-primary" : "text-white"
+            }`}
             onClick={() => handleYachtModel("motoryacht", "İstanbul")}
           >
             {t("motoryachts")}
           </button>
           <span className="mx-1 ">|</span>
           <button
-            className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+            className={`btn py-1 px-3 font-18 font-700  btn-sm ${
+              yachtModel === "invite-yacht" ? "text-primary" : "text-white"
+            }`}
             onClick={() => handleYachtModel("invite-yacht", "İstanbul")}
           >
             {t("invitationBoats")}{" "}
@@ -55,7 +59,7 @@ const YachtFleet = () => {
                   className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
                   onClick={() => handleYachtModel("motoryacht", "İstanbul")}
                 >
-                  İstanbul'daki Teknelerimiz
+                  İstanbul
                 </button>
               </div>
               <div className="  py-2 px-3 m-2 border d-inline-block location-buttons location">
@@ -63,7 +67,7 @@ const YachtFleet = () => {
                   className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
                   onClick={() => handleYachtModel("motoryacht", "Muğla")}
                 >
-                  Muğla'daki Teknelerimiz
+                  Muğla
                 </button>
               </div>
             </div>

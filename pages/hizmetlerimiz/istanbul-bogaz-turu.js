@@ -30,10 +30,38 @@ const istanbulBogazTuru = ({}) => {
             <Carousel.Item>
               <img
                 className="d-block about-us-img w-100"
-                src="/images/hizmetlerimiz/bachelorette/6.jpg"
+                src="/images/hizmetlerimiz/bosphorus-tour/2.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/bosphorus-tour/6.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/bosphorus-tour/3.jpg"
                 alt="First slide"
               />
             </Carousel.Item>{" "}
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/bosphorus-tour/4.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>{" "}
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/bosphorus-tour/5.jpeg"
+                alt="First slide"
+              />
+            </Carousel.Item>
           </Carousel>
         }
         lang="tr"

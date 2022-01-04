@@ -42,7 +42,16 @@
     "BirthdayText": "If you want, you can have a romantic birthday alone with your loved one or you can have a birthday party on the yacht with your crowded group.",
     "BusinessDinnerTitle": "Business Dinner",
     "BusinessDinnerText": "You can organize your business lunches on our boats, which are more intimate places compared to offices.",
-    "MarriageProposalTitle": "Marriage Proposal "
+    "MarriageProposalTitle": "Marriage Proposal ",
+    "Extra1": "Cocktail",
+    "Extra2": "Breakfast",
+    "Extra3": "Laser",
+    "Extra4": "Ottoman Music",
+    "Extra5": "Photo - Video Shooting",
+    "Extra6": "Oriental",
+    "Extra7": "Balloon Decoration",
+    "Extra8": "Cake",
+    "ExtraServices": "Extra Services"
   },
 
   "AboutUs": {
@@ -79,12 +88,11 @@
     "yacht4": "If you are thinking of a small party or getaway with your group of friends, this yacht is for you. Our yacht with a capacity of 8 people is in the first place for your birthday organizations on the yacht.",
     "yacht5": "This yacht, which hosts all kinds of organizations with a capacity of 30 people, attracts all attention with its unique appearance and lighting.",
     "yacht6": "Boat charter service is provided for up to 15 people on this yacht, which has a perfect harmony with the sea with its blue-white appearance.",
-    "yacht7": "With our luxury yacht, which adopts the professional service concept as its principle, you can organize individual and corporate organizations for up to 15 people.",
+    "yacht7": "You can carry the comfort of home to the Bosphorus with this yacht with a capacity of 36 people. You can carry out all kinds of organizations on this yacht where every detail is carefully planned.",
     "yacht8": "With this yacht with a capacity of 20 people, you can organize events such as birthdays and bachelorettes. It is the number one choice for luxury lovers.",
     "yacht9": "This yacht, which hosts pleasant moments, provides yacht charter service for up to 15 people. It is an ideal choice for crowded dinners with its large aft pool.",
     "yacht10": "If you are looking for a beautiful and economical yacht, you are at the right address. Experience the fun at peaks with this yacht that we can provide yacht charter service for up to 10 people.",
     "yacht11": "You can organize all kinds of events with our custom-built yacht with a capacity of 12 people.",
-    "yacht12": "You can carry the comfort of home to the Bosphorus with this yacht with a capacity of 36 people. You can carry out all kinds of organizations on this yacht where every detail is carefully planned.",
     "yacht13": "This yacht, which is one of the most preferred yachts by our guests with its elegant appearance, can serve up to 60 people in meal order and 80 people in cocktail order. It is an ideal choice for your invitation organizations.",
     "yacht14": "You can see this modern architecture in the interior decoration of this yacht, which attracts attention with its modern and different color. It can serve up to 70 people in dinner order and 100 people in cocktail order.",
     "yacht15": "This boat, which is one of the most ideal choices for corporate organizations, stands out with its large and modern saloon. It serves up to 80 people.",
@@ -93,7 +101,8 @@
     "yacht18": "Our luxury yacht, which can accommodate up to 6 people in the Bodrum Torba and provides daily service for up to 10 people, has become indispensable in Bodrum Torba with its friendly staff. You can make daily, weekly, monthly reservations for our VIP yacht.",
     "yacht19": "Our luxury luxury yacht, which is indispensable for small families in Bodrum Torba , can serve up to 5 people. You can contact us for daily reservations.",
     "yacht20": "Our ultra-luxury comfortable yacht with magnificent design in Fethiye Gocek can serve up to 8 people. You can make daily, weekly, monthly reservations with its experienced staff.",
-    "weather": "ISTANBUL WEATHER AND WIND CONDITION"
+    "weather": "ISTANBUL WEATHER AND WIND CONDITION",
+    "reviewbtn": "Review Yacht"
   },
   "BoatIcons": {
     "Icon1": "Hot Drink Service",
@@ -153,7 +162,8 @@
     "AboutUs": "About Us",
     "ContactFooter": "Contact",
     "OurServices": "Our services",
-    "FollowUs": "Follow us"
+    "FollowUs": "Follow us",
+    "Text": "As Neva yacht charter, our most important principle is customer satisfaction. We make an intense effort to ensure that our guests benefit from their special days in an unforgettable way. We are at your service 24/7 with our motor yachts and boats of the equipment and dimensions you want."
   },
   "BosphorusTour": {
     "BosphorusTourTitle": "Istanbul Bosphorus Tour",

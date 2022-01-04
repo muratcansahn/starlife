@@ -27,10 +27,23 @@ const evlilikTeklifi = ({}) => {
             <Carousel.Item>
               <img
                 className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/marriage/7.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/marriage/8.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>{" "}
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
                 src="/images/hizmetlerimiz/marriage/1.jpg"
                 alt="First slide"
               />
-              <Carousel.Caption></Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
               <img
@@ -38,7 +51,6 @@ const evlilikTeklifi = ({}) => {
                 src="/images/hizmetlerimiz/marriage/2.jpg"
                 alt="First slide"
               />
-              <Carousel.Caption></Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
               <img

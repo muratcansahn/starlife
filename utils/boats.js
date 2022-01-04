@@ -241,28 +241,7 @@ export const BoatData = [
       "/images/yachts/motoryatlar/11/6.jpeg",
     ],
   },
-  {
-    id: "12",
-    type: "motoryacht",
-    description:
-      "36 kişi kapasiteli bu yatımız ile ev konforunu İstanbul Boğazı'na taşıyabilirsiniz.Her detayın özenle planlandığı bu yatımızda her türlü organizasyonunuzu gerçekleştirebilirsiniz.",
-    height: "22",
-    capacity: "36",
-    food: "30",
-    crew: "3",
-    CardImage: "/images/yachts/motoryatlar/12/1.jpeg",
-    location: "İstanbul",
-    DetailImages: [
-      "/images/yachts/motoryatlar/12/1.jpeg",
-      "/images/yachts/motoryatlar/12/2.jpeg",
-      "/images/yachts/motoryatlar/12/3.jpeg",
-      "/images/yachts/motoryatlar/12/4.jpeg",
-      "/images/yachts/motoryatlar/12/5.jpeg",
-      "/images/yachts/motoryatlar/12/6.jpeg",
-      "/images/yachts/motoryatlar/12/7.jpeg",
-      "/images/yachts/motoryatlar/12/8.jpeg",
-    ],
-  },
+
   {
     id: "13",
     type: "invite-yacht",

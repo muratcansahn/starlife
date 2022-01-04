@@ -6,7 +6,7 @@ export const servicesSubMenuItems = [
 
   {
     href: "/hizmetlerimiz/yuzme-turlari",
-    title: "SwimmingTourTitle",
+    title: "IslandTourTitle",
   },
   {
     href: "/hizmetlerimiz/bekarliga-veda-partisi",

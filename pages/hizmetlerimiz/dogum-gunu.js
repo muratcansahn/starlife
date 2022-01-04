@@ -34,6 +34,13 @@ const bacheloretteParty = ({}) => {
             <Carousel.Item>
               <img
                 className="d-block about-us-img w-100"
+                src="/images/hizmetlerimiz/birthday/5.jpg"
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block about-us-img w-100"
                 src="/images/hizmetlerimiz/birthday/2.jpg"
                 alt="First slide"
               />
