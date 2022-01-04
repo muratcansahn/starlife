@@ -22,6 +22,7 @@
 .main-navbar {
   margin-right: 7px !important;
   padding-top: 10px;
+  margin-top: 10px;
 
   span {
     font-size: 30px;
@@ -133,10 +134,13 @@
 .left-0 {
   margin-left: 0;
 }
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Vujahday+Script&display=swap");
 .brand {
   margin-bottom: 0;
   color: white;
-  font-size: larger;
+  font-size: 20px;
+  font-family: "Inter", sans-serif;
+  font-family: "Vujahday Script", cursive;
 }
 .tooglebtn {
   color: white !important;

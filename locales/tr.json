@@ -25,24 +25,23 @@
     "SpecialEventsTitle": "Özel Etkinlikler ",
     "SpecialEventsText": "Evlilik teklifi,Doğum günü,Bekarlığa veda ,Akşam Yemeği,Düğün,Nişan ,Boğaz turu fırsatları",
     "SmileServicesTitle": "Güler Yüzlü Hizmet    ",
-    "SmileServicesText": "Siz değerli misafirlerimizin kaliteli ve konforlu zaman geçirmesi için daima hizmetinizdeyiz.   "
+    "SmileServicesText": "Siz değerli misafirlerimizin kaliteli ve konforlu zaman geçirmesi için daima hizmetinizdeyiz.   ",
+    "weather": "İSTANBUL ANLIK HAVA VE RÜZGAR DURUMU"
   },
   "HomePageText": {
-    "HomePageText1": "Yıllar boyu süre gelen birçok imparatorluğa ev sahipliği yapmış iki    kıtayı birbirine kavuşturan yedi tepeli İstanbul’un doğal güzelliklerini     bizlerle birlikte deniz üzerinden Güvenli, Konforlu ve Lüks Motoryatlarımız ile gezmek ister misiniz? Sizlerde boğaz köprüsünün üstünden geçtim altından geçemedim diyenlerdenseniz! Sizleri İstanbul  boğazının eşsiz manzarasını yaşamaya davet ediyoruz.",
-    "HomePageText2": " Kalmalı ya da Günübirlik turlarımızla siz değerli misafirlerimizi ağırlamaktan onur duyarız."
+    "HomePageText1": "Sizleri İstanbul  boğazının eşsiz manzarasını yaşamaya davet ediyoruz. Kalmalı ya da Günübirlik turlarımızla siz değerli misafirlerimizi ağırlamaktan onur duyarız."
   },
 
   "Services": {
     "AnniversaryTitle": "Yıl Dönümü Kutlamaları",
     "BacheloretteTitle": "Bekarlığa Veda Partisi   ",
     "BacheloretteText": "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin.    ",
-
     "BosphorusTourTitle": "Boğaz Turu    ",
     "BosphorusTourText": "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz  ",
     "BirthdayTitle": "Doğum Günü Kutlaması    ",
     "BirthdayText": "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz.    ",
     "BusinessDinnerTitle": "İş Yemeği ",
-    "BusinessDinnerText": "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz",
+    "BusinessDinnerText": "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz.",
     "MarriageProposalTitle": "Evlilik Teklifi "
   },
 
@@ -52,7 +51,17 @@
   },
   "Banner": {
     "FirstText": "Eğlence Anlayışını Değiştirmeye Ne Dersin ?",
-    "SecondText": "Web Site Açılışına Özel Fiyatlar"
+    "SecondText": "Web Site Açılışına Özel Fiyatlar",
+    "AnniversaryTitle": "Yıl Dönümü Kutlamaları",
+    "BacheloretteTitle": "Bekarlığa Veda Partisi   ",
+    "BacheloretteText": "Evlilik öncesi son zamanlarınızda bekarlığınızı mükemmel bir parti ile sonlandırmak ister misiniz!Her detayı düşünülmüş organizasyonlarımız ile unutulmayacak bir parti gerçekleştirin.    ",
+    "BosphorusTourTitle": "Boğaz Turu    ",
+    "BosphorusTourText": "İstanbul Boğazı'nın eşsiz güzelliklerini teknelerimizle keşfedebilirsiniz  ",
+    "BirthdayTitle": "Doğum Günü Kutlaması    ",
+    "BirthdayText": "İsterseniz sevdiğiniz ile baş başa romantik bir doğum günü geçirebilir ya da kalabalık grubunuz ile yatta doğum günü partisi verebilirsiniz.    ",
+    "BusinessDinnerTitle": "İş Yemeği ",
+    "BusinessDinnerText": "Ofislere kıyasla daha samimi mekan olan teknelerimizde iş yemeği organizasyonlarınızı gerçekleştirebilirsiniz.",
+    "MarriageProposalTitle": "Evlilik Teklifi "
   },
   "YachtRent": {
     "YachtRentTitle": "Yat Kiralama Hizmeti",
@@ -69,30 +78,21 @@
     "yacht3": "Çekirdek aileler için vazgeçilmez olan bu yatımızda 8 kişiye kadar hizmet verilmekte olup,evlilik teklifi gibi organizasyonlarınız için mükemmel bir seçenektir.",
     "yacht4": "Arkadaş grubunuzla ufak bir parti veya kaçamak düşünüyor iseniz bu yatımız tam size göre.8 kişi kapasiteli yatımız yatta doğum günü organizasyonlarınız için ilk sıralarda yer almaktadır.    ",
     "yacht5": "30 kişi kapasitesi ile her türlü organizasyona ev sahipliği yapan bu yatımız eşsiz görünümü ve ışıklandırması ile tüm dikkatleri üzerine çekmektedir.  ",
-
     "yacht6": "Mavi-Beyaz görünümü ile deniz ile mükemmel bir uyum yakalayan bu yatımızda 15 kişiye kadar yat kiralama hizmeti verilmektedir.",
-
     "yacht7": "Profesyonel hizmet anlayışını kendine ilke edinen lüks yatımız ile 15 kişiye kadar bireysel ve kurumsal organizasyonlarınızı gerçekleştirebilirsiniz.    ",
-
     "yacht8": "20 kişi kapasiteye sahip bu yatımız ile doğum günü,bekarlığa veda gibi organizasyonlarınızı gerçekleştirebilirsiniz.Şatafat tutkunları için bir numaralı seçenek olmaktadır.",
-
     "yacht9": "Keyifli anlara ev sahipliği yapan bu yatımız ile 15 kişiye kadar yat kiralama hizmeti verilmektedir.Geniş arka havuzu ile kalabalık akşam yemekleri için ideal bir seçimdir.",
-
     "yacht10": "Hem güzel,hem ekonomik bir yat arıyor iseniz doğru adrestesiniz.10 kişiye kadar yat kiralama hizmeti verebildiğimiz bu yatımız ile eğlenceyi doruklarda yaşayın.",
-
     "yacht11": "12 kişi kapasiteye sahip özel yapım yatımız ile her türlü organizasyonunuzu gerçekleştirebilirsiniz.",
-
     "yacht12": "36 kişi kapasiteli bu yatımız ile ev konforunu İstanbul Boğazı'na taşıyabilirsiniz.Her detayın özenle planlandığı bu yatımızda her türlü organizasyonunuzu gerçekleştirebilirsiniz.",
-
     "yacht13": "Şık görünümü ile misafirlerimizin en çok tercih ettiği yatlarımızdan biri olan bu yatımızda yemek düzeninde 60,kokteyl düzeninde 80 kişiye kadar hizmet verilebilmektedir.Davet organizasyonlarınız içim ideal bir seçimdir.",
-
     "yacht14": "Modern ve farklı rengi ile dikkatleri üzerine çeken bu yatımızın iç dekorasyonunda da bu modern mimariyi görebilmektesiniz.Yemek düzeninde 70,kokteyl düzeninde 100 kişiye kadar hizmet verilebilmektedir.",
-
     "yacht15": "Kurumsal organizasyonlar için en ideal seçimlerden biri olan bu teknemiz geniş ve modern salonu ile ön plana çıkmaktadır.80 kişiye kadar hizmet verilmektedir.",
-
     "yacht16": "42 metre uzunluğundaki bu teknemiz modern ve şık görünümü tüm dikkatleri üzerine çekmektedir.Geniş salon hacmi ile birlikte 300 kişiye kadar yemekli organizasyonlar gerçekleştirilebilmektedir.",
-
     "yacht17": "500 kişiye kadar hizmet verilebilen bu teknemiz İstanbul Boğazı'nın en büyük ve modern teknelerinden biri konumundadır.",
+    "yacht18": "Bodrum torbada bulunan 6 kişiye kadar konaklamalı ve 10 kişiye kadar günübirlik hizmet veren lüks yatımız güler yüzlü çalışanları ile Bodrum Torbada vazgeçilmez hale gelmiştir.Vip yatımız için rezervasyon yaptırabilirsiniz.",
+    "yacht19": "Bodrum torbada bulunan çekirdek ailelerin vazgeçilmezi olan ekonomik lüks yatımız 5 kişiye kadar hizmet verebilmektedir.Günübirlik rezervasyon için iletişime geçebilirsiniz.",
+    "yacht20": "Fethiye Göçekte bulunan muhteşem tasarıma sahip ultra lüks konforlu yatımız 8 kişiye kadar hizmet verebilmektedir.Tecrübeli çalışan kadrosuyla günlük haftalık aylık rezervasyon yaptırabilirsiniz.",
     "reviewbtn": "Hemen İncele",
     "weather": "İSTANBUL ANLIK HAVA VE RÜZGAR DURUMU"
   },

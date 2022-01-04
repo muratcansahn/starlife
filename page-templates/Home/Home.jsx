@@ -23,9 +23,10 @@ const Home = () => {
       <WhatsappButton />
       <Header />
       <Banner />
-      <Features />
+
       <HomePageText />
       <YachtFleet />
+      <Features />
 
       <Footer />
     </main>

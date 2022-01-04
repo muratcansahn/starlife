@@ -4,9 +4,6 @@
 .banner {
   position: relative;
   margin-top: 25px;
-  @include media-breakpoint-down(lg) {
-    margin-top: 10px;
-  }
 }
 
 .banner-title {
@@ -45,5 +42,13 @@
   height: 770px;
   @include media-breakpoint-down(lg) {
     height: auto;
+  }
+}
+.hr {
+  width: 70% !important;
+}
+.stories-title {
+  @include media-breakpoint-up(lg) {
+    display: none !important;
   }
 }
