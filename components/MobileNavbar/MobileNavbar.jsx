@@ -7,7 +7,7 @@ const MobileNavbar = ({ ul, sidenav, closeBtn }) => {
     <div id="mySidenav" className={sidenav}>
       <CloseButton onClick={closeBtn} className="float-end mx-3" />
       <ul className="my-4">{ul}</ul>
-      <div className="sidebar-bottom">
+      {/* <div className="sidebar-bottom">
         <hr />
         <div className="icons mx-3 d-flex ">
           <div className="facebook-icon mx-4">
@@ -28,7 +28,7 @@ const MobileNavbar = ({ ul, sidenav, closeBtn }) => {
             <BsYoutube size="24px" color="black" />
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

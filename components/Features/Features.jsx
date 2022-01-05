@@ -10,6 +10,18 @@ const Features = () => {
   const t = useTranslations("Features");
   return (
     <div>
+      <section class="description">
+        <div class="bg-light container ">
+          <h4 class="pb-3  pt-4 text-center"> {t("weather")}</h4>
+          <iframe
+            width="100%"
+            height="550"
+            src="https://embed.windy.com/embed2.html?lat=41.033&lon=29.047&detailLat=41.080&detailLon=29.047&width=650&height=450&zoom=11&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=default&metricTemp=default&radarRange=-1"
+            frameborder="0"
+            className="mx-auto my-4"
+          ></iframe>{" "}
+        </div>
+      </section>
       <div
         className=" row features-row  d-flex
       "
@@ -45,18 +57,6 @@ const Features = () => {
           </div>
         </div>
       </div>
-      <section class="description">
-        <div class="bg-light container ">
-          <h4 class="pb-3  pt-4 text-center"> {t("weather")}</h4>
-          <iframe
-            width="100%"
-            height="550"
-            src="https://embed.windy.com/embed2.html?lat=41.033&lon=29.047&detailLat=41.080&detailLon=29.047&width=650&height=450&zoom=11&level=surface&overlay=wind&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=true&metricWind=default&metricTemp=default&radarRange=-1"
-            frameborder="0"
-            className="mx-auto my-4"
-          ></iframe>{" "}
-        </div>
-      </section>
     </div>
   );
 };

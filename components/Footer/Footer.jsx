@@ -22,6 +22,10 @@ const Footer = () => {
             alt="Picture of the author"
           />
         </div>
+        <div className="footer-col footer-text">
+          <p>{t("Text")}</p>
+        </div>
+
         <div className="contact-info footer-col my-3 ">
           <div className="footer-title font-18">{t("ContactInfo")}</div>
           <div className="contact-info-icons">

@@ -8,11 +8,6 @@ const Banner = ({ lang }) => {
 
   return (
     <div className="banner">
-      <div className=" stories-title ">
-        <h1 className="text-center">HİZMETLERİMİZ</h1>
-        <hr className="hr mx-auto" />
-      </div>
-
       <div className="stories mx-auto my-3">
         <Link href="hizmetlerimiz/bekarliga-veda-partisi">
           <div className="story ">

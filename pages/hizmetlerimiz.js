@@ -3,10 +3,13 @@ import { useRouter } from "next/router";
 import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
-
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Events from "../components/Events";
+import { FaCocktail, FaMusic, FaFly, FaBirthdayCake } from "react-icons/fa";
+import { CgCoffee } from "react-icons/cg";
+import { GiFocusedLightning, GiMusicalScore } from "react-icons/gi";
+import { ImVideoCamera } from "react-icons/im";
 
 const hizmetlerimiz = () => {
   //Localization
@@ -135,6 +138,45 @@ const hizmetlerimiz = () => {
             />
           </div>
         </Link>
+        <div className="extra-services my-3">
+          <h2 className="text-center">{t("ExtraServices")} </h2>
+          <hr className="extra-services-hr mx-auto" />
+
+          <div className="extra-services-icons">
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <FaCocktail size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra1")} </p>
+            </div>
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <CgCoffee size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra2")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <GiFocusedLightning size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra3")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <FaMusic size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra4")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <ImVideoCamera size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra5")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <GiMusicalScore size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra6")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <FaFly size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra7")} </p>
+            </div>{" "}
+            <div className="extra-service-icon align-items-center justify-content-center m-4 d-flex">
+              <FaBirthdayCake size="40px" />
+              <p className="m-3 extra-services-text">{t("Extra8")} </p>
+            </div>
+          </div>
+        </div>
       </div>
       <Footer />
     </>
