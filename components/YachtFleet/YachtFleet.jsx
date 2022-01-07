@@ -34,7 +34,7 @@ const YachtFleet = () => {
         <div className="  py-2 px-3  border d-inline-block location-buttons my-3">
           <button
             className={`btn py-1 px-1 font-18 font-700  btn-sm ${
-              yachtModel === "motoryacht" ? " text-primary" : "text-white"
+              yachtModel === "motoryacht" ? " text-primary" : "text-dark"
             }`}
             onClick={() => handleYachtModel("motoryacht", "İstanbul")}
           >
@@ -43,7 +43,7 @@ const YachtFleet = () => {
           <span className="mx-1 ">|</span>
           <button
             className={`btn py-1 px-3 font-18 font-700  btn-sm ${
-              yachtModel === "invite-yacht" ? "text-primary" : "text-white"
+              yachtModel === "invite-yacht" ? "text-primary" : "text-dark"
             }`}
             onClick={() => handleYachtModel("invite-yacht", "İstanbul")}
           >
@@ -54,17 +54,20 @@ const YachtFleet = () => {
           {" "}
           {yachtModel === "motoryacht" ? (
             <div>
-              <div className="  py-2 px-3  m-2 border d-inline-block location-buttons location">
+              <div className="  py-2 px-3  m-2 border d-inline-block location-buttons">
                 <button
-                  className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+                  className={`btn py-1 px-1 font-18 font-700  btn-sm ${
+                    location === "İstanbul" ? " text-primary" : "text-dark"
+                  }`}
                   onClick={() => handleYachtModel("motoryacht", "İstanbul")}
                 >
                   İstanbul
                 </button>
-              </div>
-              <div className="  py-2 px-3 m-2 border d-inline-block location-buttons location">
+                <span className="mx-1 ">|</span>
                 <button
-                  className={`btn py-1 px-1 font-18 font-700  btn-sm text-white`}
+                  className={`btn py-1 px-1 font-18 font-700  btn-sm ${
+                    location === "Muğla" ? " text-primary" : "text-dark"
+                  }`}
                   onClick={() => handleYachtModel("motoryacht", "Muğla")}
                 >
                   Muğla
