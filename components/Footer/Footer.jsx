@@ -41,7 +41,7 @@ const Footer = () => {
               <div className="footer-icon">
                 <BiEnvelope size="26px" />
               </div>
-              <div className="footer-icon-text">nevayacht@gmail.com</div>
+              <div className="footer-icon-text">info@nevayatkiralama.com</div>
             </div>
             <div className="contact-info-icon my-1 d-flex">
               <div className="footer-icon">
