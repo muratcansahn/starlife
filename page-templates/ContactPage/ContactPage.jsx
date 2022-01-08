@@ -36,7 +36,7 @@ const ContactPage = () => {
 
               <div className="e-mail d-flex  my-3">
                 <FiMail color="#1B4A6E" size="40px" className="mt-1" />
-                <p className="mx-2 ">Starlifeyatch@gmail.com</p>
+                <p className="mx-2 ">info@nevayatkiralama.com</p>
               </div>
             </div>
           </div>
