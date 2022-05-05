@@ -6,9 +6,7 @@ import { BoatData } from "../../utils/boats";
 
 const YachtDetailPage = ({ images, boat, id }) => {
   const t = useTranslations("BoatSpecifications");
-  console.log(id);
   const currentBoatImage = BoatData[id - 1].DetailImages;
-  console.log(currentBoatImage);
 
   return (
     <div className="">
