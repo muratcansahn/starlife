@@ -18,7 +18,7 @@ const HomePageText = () => {
           width="240px"
         />
       </div>
-      <p className="homepage-text my-4 mx-3">{t("HomePageText1")}</p>
+      <h1 className="homepage-text my-4 mx-3">{t("HomePageText1")}</h1>
     </div>
   );
 };
