@@ -11,7 +11,7 @@ const LoadingSpinner = () => {
           width={150}
           height={200}
         />
-        <h1 className="text-center text-dark mt-4">Sealife Yacht</h1>
+        <h1 className="text-center text-dark mt-4">Neva Yacht</h1>
         <Spinner
           className="my-4 mx-auto"
           animation="border"
