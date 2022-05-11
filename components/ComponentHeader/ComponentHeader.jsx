@@ -6,7 +6,7 @@ const ComponentHeader = ({ title, text }) => {
       <Image
         src={ComponentHeaderImage}
         className=""
-        alt="..."
+        alt="component-header-image"
         width="100"
         height="50"
       />

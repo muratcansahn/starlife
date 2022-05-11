@@ -21,7 +21,7 @@ const YachtCard = ({
             <Image
               src={boatimg}
               className=""
-              alt="..."
+              alt={`${boatid}-image`}
               height="210px"
               width="355px"
             />

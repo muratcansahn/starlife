@@ -40,7 +40,7 @@ const WhySealife = () => {
           <img
             src="../images/why-sealife-yacht.jpg"
             className="why-sealife-img"
-            alt="..."
+            alt="why-sealife-img"
             width="415"
             height="415"
           />

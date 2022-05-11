@@ -23,7 +23,7 @@ const YachtDetailPage = ({ images, boat, id }) => {
                     <Image
                       src={i}
                       className="card-image "
-                      alt=""
+                      alt="yacht-image"
                       height={170}
                       width={330}
                     />
