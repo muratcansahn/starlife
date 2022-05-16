@@ -12,7 +12,7 @@ const YachtRentServices = () => {
           <img
             src="./images/sealife-yacht.jpg"
             className="yacht"
-            alt="..."
+            alt="yacht-rent-services-image"
             width="467"
             height="351"
           />

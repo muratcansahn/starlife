@@ -32,7 +32,7 @@ const hizmetlerimiz = () => {
               <Image
                 src="/images/story-icons/bachelorette.png"
                 className="story-image "
-                alt=""
+                alt="bachelorette-image"
                 height={50}
                 width={50}
               />
@@ -48,7 +48,7 @@ const hizmetlerimiz = () => {
               <Image
                 src="/images/story-icons/birthday.png"
                 className="story-image "
-                alt=""
+                alt="birthday-image"
                 height={50}
                 width={50}
               />
@@ -61,7 +61,7 @@ const hizmetlerimiz = () => {
               <Image
                 src="/images/story-icons/business-dinner.png"
                 className="story-image "
-                alt=""
+                alt="business-image"
                 height={50}
                 width={50}
               />
@@ -76,7 +76,7 @@ const hizmetlerimiz = () => {
               <Image
                 src="/images/story-icons/wedding.png"
                 className="story-image "
-                alt=""
+                alt="story-image"
                 height={50}
                 width={50}
               />
@@ -91,7 +91,7 @@ const hizmetlerimiz = () => {
               <Image
                 src="/images/story-icons/anniversary.png"
                 className="story-image "
-                alt=""
+                alt="anniversary-image"
                 height={50}
                 width={50}
               />

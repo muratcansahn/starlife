@@ -1,5 +1,6 @@
 import { useState } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
+import Script from "next/script";
 
 import NProgress from "nprogress";
 import Router from "next/router";
@@ -65,6 +66,15 @@ function MyApp({ Component, pageProps }) {
     setLoading(false);
   });
 
+  {
+    /* <script async src="https://www.googletagmanager.com/gtag/js?id=G-CXDPRREDPL"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'G-CXDPRREDPL'); */
+  }
   return (
     <SSRProvider>
       <NextIntlProvider
@@ -73,6 +83,21 @@ function MyApp({ Component, pageProps }) {
         // getMessageFallback={getMessageFallback}
       >
         {loading && <LoadingSpinner />}
+        <Script
+          strategy="lazyOnload"
+          src={`https://www.googletagmanager.com/gtag/js?id=G-CXDPRREDPL`}
+        />
+
+        <Script strategy="lazyOnload">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-CXDPRREDPL', {
+              page_path: window.location.pathname,
+            });
+                `}
+        </Script>
         <Component {...pageProps} />
       </NextIntlProvider>
     </SSRProvider>
