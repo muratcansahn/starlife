@@ -214,10 +214,11 @@ export const BoatData = [
     id: "10",
     type: "motoryacht",
     description:
-      "Hem güzel,hem ekonomik bir yat arıyor iseniz doğru adrestesiniz.10 kişiye kadar yat kiralama hizmeti verebildiğimiz bu yatımız ile eğlenceyi doruklarda yaşayın.",
-    height: "17",
-    capacity: "8",
-    food: "7",
+      "Güler yüzlü personelleri ve dikkat çekici iç tasarımı olan bu yatımızda eğlenceyi iliklerinize kadar hissedebilirsiniz.",
+    capacity: "15",
+    height: "22",
+
+    food: "11",
     crew: "2",
     CardImage: "/images/yachts/motoryatlar/10/1.jpeg",
     location: "İstanbul",
